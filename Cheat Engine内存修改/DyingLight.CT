@@ -1,0 +1,2375 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="29">
+  <Forms>
+    <PackEdit Class="TCEForm" Encoding="Ascii85">tyRm8/3tp-opkKPO{a.F4Vn$A1t2tPTGKCBcTA5anucU1L4),plS.c3$7PkvNoO@]zyh*0EBFP)h8.h@7YsXo0P5jK99K[f1lh!8+FCq,se8{.%^7ei?aYqK;_H-4bm0u*WPUxxta+cGtZ]_!o+^f2u+Ms,F)$F*?4doP7Br46,k-K}Bx*V?qa{)Mp:%%l3ElTX%wH6Nu3G1TMwjOr!dv8#h+1*DE2}qP+!m}W]/KdVWO,ZgI#(}hmq;*z=J?L60YdE5zKSLRp@3W):X]$*(IODO:Pw0^1Lr-$7,Dw(kLX8JbZ5!O0i7ah8Af{YBW+zD1npM^#w1Fry#A;2]ouCioYxIbSdZLwZh9g{tP}$N:kufD@El*4yV2:0v]]-^/G}.rp%6[)UN3,V:lH0E,WNFf.O)NGsoQ+G,.fU!Q;+H@RxMMf*[I^.OIHMURk1!cIUW{a]Y3d:_Lo%Tvm.su?]Ml739S.p@HoZrk3-DX=hsOr;5-67$EZV_X)7MMAV}pv/fT+qfv=FF(,r6[x4Xd4b;NMkvqH6A6zJVCUZ4cLL?}q@O=Tm5XmS6^aZd[d:S2!5[6^.!Y7sv(GsI8JLg$DYU4:J?OLeYAA#)W?-eHdSp[KJFtEHbd8;:{,cdTVTF$_Z3cx2%d-W[dEmNZveixd=_o4s,,7K@MJKM;E!$%s*L-6m$M]3.HCW^s-E;UBZDl=2p9Y-esh!x3xsZ@#M;Ouz!1fE5ly0K/@1z=!6h5wIW;0V*v@.G;yXvH+dVv/Sds)u8,ul1PnzF$yYOrRgXjE0M]??}3urYO9nhKXOMNS;CixtH$4kM*pP;r:8:3dg7z.I!1uZ0OrExycwcOhb0VCbOQPeBuspo5ur(Unfoxo6F=#5g#(2Hx%1Z}y$w#{0WZw:lAu^0z0Hr[OSx-DN]$L84%f:ae$9:^dL*y4pV#v9qL%mMc6$)U-/izqgAzi%C@POETKm5!yJED0ag264THXFdV72$S*5.P+%0$@WEB0S.@pbyj3k[A-59.ijVsk.hTf{d1H.qajSMK^Zo/fFHrpJ^]mXjrVUAn#6U8FkPfY=fA;4iQkuS[:e]%PI9?.@:49O]XTc2g@^_37L}LewwDkpn%FHZK29cMtI%TB2{{@1iiO^!+Bq,am(S#MU9Q9X{ayZwpaX.}%OTe]appS#6qpp(hCR=;wGLXA_u2b,),AHPnuidKGAzt+Hc;W($1E+KB6RY$RG}HdavWHoDtuN]!g}*b#vPtLO79$z[p5jz1u5dP]98]xg</PackEdit>
+    <PackEdit_1 Class="TCEForm" Encoding="Ascii85">tyRm8/3tp-opkKPO{a.F4Vn$A1t2tPTGKCBcTA5anucU1L4),plS.c3$7PkvNoO@]zyh*0EBFP)h8.h@7YsXo0P5jK99K[f1lh!8+FCq,se8{.%^7ei?aYqK;_H-4bm0u*WPUxxta+cGtZ]_!o+^f2u+Ms,F)$F*?4doP7Br46,k-K}Bx*V?qa{)Mp:%%l3ElTX%wH6Nu3G1TMwjOr!dv8#h+1*DE2}qP+!m}W]/KdVWO,ZgI#(}hmq;*z=J?L60YdE5zKSLRp@3W):X]$*(IODO:Pw0^1Lr-$7,Dw(kLX8JbZ5!O0i7ah8Af{YBW+zD1npM^#w1Fry#A;2]ouCioYxIbSdZLwZh9g{tP}$N:kufD@El*4yV2:0v]]-^/G}.rp%6[)UN3,V:lH0E,WNFf.O)NGsoQ+G,.fU!Q;+H@RxMMf*[I^.OIHMURk1!cIUW{a]Y3d:_Lo%Tvm.su?]Ml739S.p@HoZrk3-DX=hsOr;5-67$EZV_X)7MMAV}pv/fT+qfv=FF(,r6[x4Xd4b;NMkvqH6A6zJVCUZ4cLL?}q@O=Tm5XmS6^aZd[d:S2!5[6^.!Y7sv(GsI8JLg$DYU4:J?OLeYAA#)W?-eHdSp[KJFtEHbd8;:{,cdTVTF$_Z3cx2%d-W[dEmNZveixd=_o4s,,7K@MJKM;E!$%s*L-6m$M]3.HCW^s-E;UBZDl=2p9Y-esh!x3xsZ@#M;Ouz!1fE5ly0K/@1z=!6h5wIW;0V*v@.G;yXvH+dVv/Sds)u8,ul1PnzF$yYOrRgXjE0M]??}3urYO9nhKXOMNS;CixtH$4kM*pP;r:8:3dg7z.I!1uZ0OrExycwcOhb0VCbOQPeBuspo5ur(Unfoxo6F=#5g#(2Hx%1Z}y$w#{0WZw:lAu^0z0Hr[OSx-DN]$L84%f:ae$9:^dL*y4pV#v9qL%mMc6$)U-/izqgAzi%C@POETKm5!yJED0ag264THXFdV72$S*5.P+%0$@WEB0S.@pbyj3k[A-59.ijVsk.hTf{d1H.qajSMK^Zo/fFHrpJ^]mXjrVUAn#6U8FkPfY=fA;4iQkuS[:e]%PI9?.@:49O]XTc2g@^_37L}LewwDkpn%FHZK29cMtI%TB2{{@1iiO^!+Bq,am(S#MU9Q9X{ayZwpaX.}%OTe]appS#6qpp(hCR=;wGLXA_u2b,),AHPnuidKGAzt+Hc;W($1E+KB6RY$RG}HdavWHoDtuN]!g}*b#vPtLO79$z[p5jz1u5dP]98]xg</PackEdit_1>
+  </Forms>
+  <CheatEntries>
+    <CheatEntry>
+      <ID>2757</ID>
+      <Description>"激活此组中的所有效果"</Description>
+      <Options moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <Color>8000FF</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>11343</ID>
+          <Description>"超级精准（不开镜的情况下）"</Description>
+          <LastState/>
+          <Color>008000</Color>
+          <VariableType>Auto Assembler Script</VariableType>
+          <AssemblerScript>{ Game   : DyingLightGame.exe
+  Version:
+  Date   : 2017-05-20
+  Author : PC
+
+  This script does blah blah blah
+}
+
+[ENABLE]
+
+aobscanmodule(Recoil,gamedll_x64_rwdi.dll,F3 0F 10 80 E4 00 00 00 F3 0F 10 88) // should be unique
+alloc(newmem,$1000,gamedll_x64_rwdi.ShutdownGameScriptDLL+AD0D46)
+
+label(code)
+label(return)
+
+newmem:
+
+code:
+  mov [rax+94],(float)0.0
+  mov [rax+98],(float)0.0
+  mov [rax+104],(float)0.0
+  mov [rax+108],(float)0.0
+  movss xmm0,[rax+000000E4]
+  jmp return
+
+Recoil:
+  jmp code
+  nop
+  nop
+  nop
+return:
+registersymbol(Recoil)
+
+[DISABLE]
+
+Recoil:
+  db F3 0F 10 80 E4 00 00 00
+
+unregistersymbol(Recoil)
+dealloc(newmem)
+
+{
+// ORIGINAL CODE - INJECTION POINT: gamedll_x64_rwdi.ShutdownGameScriptDLL+AD0D46
+
+"gamedll_x64_rwdi.dll"+AD38E9: 75 05                    -  jne gamedll_x64_rwdi.dll+AD38F0
+"gamedll_x64_rwdi.dll"+AD38EB: 40 B5 01                 -  mov bpl,01
+"gamedll_x64_rwdi.dll"+AD38EE: EB 03                    -  jmp gamedll_x64_rwdi.dll+AD38F3
+"gamedll_x64_rwdi.dll"+AD38F0: 40 32 ED                 -  xor bpl,bpl
+"gamedll_x64_rwdi.dll"+AD38F3: 48 8B 86 E8 0B 00 00     -  mov rax,[rsi+00000BE8]
+"gamedll_x64_rwdi.dll"+AD38FA: F3 0F 10 35 9A EA 90 00  -  movss xmm6,[gamedll_x64_rwdi.dll+13E239C]
+"gamedll_x64_rwdi.dll"+AD3902: 0F 57 FF                 -  xorps xmm7,xmm7
+"gamedll_x64_rwdi.dll"+AD3905: 80 78 10 00              -  cmp byte ptr [rax+10],00
+"gamedll_x64_rwdi.dll"+AD3909: 0F 84 E7 00 00 00        -  je gamedll_x64_rwdi.dll+AD39F6
+"gamedll_x64_rwdi.dll"+AD390F: 80 3D 02 10 16 01 00     -  cmp byte ptr [gamedll_x64_rwdi.dll+1C34918],00
+// ---------- INJECTING HERE ----------
+"gamedll_x64_rwdi.dll"+AD3916: F3 0F 10 80 E4 00 00 00  -  movss xmm0,[rax+000000E4]
+// ---------- DONE INJECTING  ----------
+"gamedll_x64_rwdi.dll"+AD391E: F3 0F 10 88 E8 00 00 00  -  movss xmm1,[rax+000000E8]
+"gamedll_x64_rwdi.dll"+AD3926: 48 89 9C 24 80 00 00 00  -  mov [rsp+00000080],rbx
+"gamedll_x64_rwdi.dll"+AD392E: F3 0F 10 90 EC 00 00 00  -  movss xmm2,[rax+000000EC]
+"gamedll_x64_rwdi.dll"+AD3936: F3 0F 10 98 F0 00 00 00  -  movss xmm3,[rax+000000F0]
+"gamedll_x64_rwdi.dll"+AD393E: F3 0F 11 02              -  movss [rdx],xmm0
+"gamedll_x64_rwdi.dll"+AD3942: F3 0F 11 4A 04           -  movss [rdx+04],xmm1
+"gamedll_x64_rwdi.dll"+AD3947: F3 0F 11 52 08           -  movss [rdx+08],xmm2
+"gamedll_x64_rwdi.dll"+AD394C: F3 0F 11 5A 0C           -  movss [rdx+0C],xmm3
+"gamedll_x64_rwdi.dll"+AD3951: 74 0E                    -  je gamedll_x64_rwdi.dll+AD3961
+"gamedll_x64_rwdi.dll"+AD3953: 80 3D BD 0F 16 01 00     -  cmp byte ptr [gamedll_x64_rwdi.dll+1C34917],00
+}
+</AssemblerScript>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2737</ID>
+          <Description>"【F1】  无限生命"</Description>
+          <LastState/>
+          <Color>0000FF</Color>
+          <VariableType>Auto Assembler Script</VariableType>
+          <AssemblerScript>{ Game   : DyingLightGame.exe
+  Version: 1.12.2
+  Date   : 2017-06-13
+  Author : ray2160
+}
+
+[ENABLE]
+
+aobscanmodule(HP1,gamedll_x64_rwdi.dll,0F 2F F7 73 05 0F 28 C7 EB 08)
+registersymbol(HP1)
+
+HP1:
+ db 90 90 90
+
+
+aobscanmodule(HP2,gamedll_x64_rwdi.dll,0F 2F F0 77 03 0F 28 C6 44)
+registersymbol(HP2)
+
+HP2:
+ db 90 90 90
+
+
+[DISABLE]
+
+HP1:
+  db 0F 2F F7
+unregistersymbol(HP1)
+
+{
+// ORIGINAL CODE - INJECTION POINT: "gamedll_x64_rwdi.dll"+ABDA7F
+
+"gamedll_x64_rwdi.dll"+ABDA5B: 72 34                 -  jb gamedll_x64_rwdi.dll+ABDA91
+"gamedll_x64_rwdi.dll"+ABDA5D: 41 0F 2F F0           -  comiss xmm6,xmm8
+"gamedll_x64_rwdi.dll"+ABDA61: 76 2B                 -  jna gamedll_x64_rwdi.dll+ABDA8E
+"gamedll_x64_rwdi.dll"+ABDA63: 41 0F 28 C0           -  movaps xmm0,xmm8
+"gamedll_x64_rwdi.dll"+ABDA67: EB 28                 -  jmp gamedll_x64_rwdi.dll+ABDA91
+"gamedll_x64_rwdi.dll"+ABDA69: 48 8D BB 28 F7 FF FF  -  lea rdi,[rbx-000008D8]
+"gamedll_x64_rwdi.dll"+ABDA70: 83 CA FF              -  or edx,-01
+"gamedll_x64_rwdi.dll"+ABDA73: 48 8B 07              -  mov rax,[rdi]
+"gamedll_x64_rwdi.dll"+ABDA76: 48 8B CF              -  mov rcx,rdi
+"gamedll_x64_rwdi.dll"+ABDA79: FF 90 48 01 00 00     -  call qword ptr [rax+00000148]
+// ---------- INJECTING HERE ----------
+"gamedll_x64_rwdi.dll"+ABDA7F: 0F 2F F7              -  comiss xmm6,xmm7
+"gamedll_x64_rwdi.dll"+ABDA82: 73 05                 -  jae gamedll_x64_rwdi.dll+ABDA89
+// ---------- DONE INJECTING  ----------
+"gamedll_x64_rwdi.dll"+ABDA84: 0F 28 C7              -  movaps xmm0,xmm7
+"gamedll_x64_rwdi.dll"+ABDA87: EB 08                 -  jmp gamedll_x64_rwdi.dll+ABDA91
+"gamedll_x64_rwdi.dll"+ABDA89: 0F 2F F0              -  comiss xmm6,xmm0
+"gamedll_x64_rwdi.dll"+ABDA8C: 77 03                 -  ja gamedll_x64_rwdi.dll+ABDA91
+"gamedll_x64_rwdi.dll"+ABDA8E: 0F 28 C6              -  movaps xmm0,xmm6
+"gamedll_x64_rwdi.dll"+ABDA91: 44 0F 28 44 24 20     -  movaps xmm8,[rsp+20]
+"gamedll_x64_rwdi.dll"+ABDA97: E9 64 25 28 FF        -  jmp 7FFC4F2E0000
+"gamedll_x64_rwdi.dll"+ABDA9C: 90                    -  nop
+"gamedll_x64_rwdi.dll"+ABDA9D: 90                    -  nop
+"gamedll_x64_rwdi.dll"+ABDA9E: 90                    -  nop
+}
+
+HP2:
+  db 0F 2F F0
+unregistersymbol(HP2)
+
+{
+// ORIGINAL CODE - INJECTION POINT: "gamedll_x64_rwdi.dll"+ABDA89
+
+"gamedll_x64_rwdi.dll"+ABDA67: EB 28                    -  jmp gamedll_x64_rwdi.dll+ABDA91
+"gamedll_x64_rwdi.dll"+ABDA69: 48 8D BB 28 F7 FF FF     -  lea rdi,[rbx-000008D8]
+"gamedll_x64_rwdi.dll"+ABDA70: 83 CA FF                 -  or edx,-01
+"gamedll_x64_rwdi.dll"+ABDA73: 48 8B 07                 -  mov rax,[rdi]
+"gamedll_x64_rwdi.dll"+ABDA76: 48 8B CF                 -  mov rcx,rdi
+"gamedll_x64_rwdi.dll"+ABDA79: FF 90 48 01 00 00        -  call qword ptr [rax+00000148]
+"gamedll_x64_rwdi.dll"+ABDA7F: 0F 2F F7                 -  comiss xmm6,xmm7
+"gamedll_x64_rwdi.dll"+ABDA82: 73 05                    -  jae gamedll_x64_rwdi.dll+ABDA89
+"gamedll_x64_rwdi.dll"+ABDA84: 0F 28 C7                 -  movaps xmm0,xmm7
+"gamedll_x64_rwdi.dll"+ABDA87: EB 08                    -  jmp gamedll_x64_rwdi.dll+ABDA91
+// ---------- INJECTING HERE ----------
+"gamedll_x64_rwdi.dll"+ABDA89: 0F 2F F0                 -  comiss xmm6,xmm0
+"gamedll_x64_rwdi.dll"+ABDA8C: 77 03                    -  ja gamedll_x64_rwdi.dll+ABDA91
+// ---------- DONE INJECTING  ----------
+"gamedll_x64_rwdi.dll"+ABDA8E: 0F 28 C6                 -  movaps xmm0,xmm6
+"gamedll_x64_rwdi.dll"+ABDA91: 44 0F 28 44 24 20        -  movaps xmm8,[rsp+20]
+"gamedll_x64_rwdi.dll"+ABDA97: F3 0F 11 83 54 09 00 00  -  movss [rbx+00000954],xmm0
+"gamedll_x64_rwdi.dll"+ABDA9F: 40 84 F6                 -  test sil,sil
+"gamedll_x64_rwdi.dll"+ABDAA2: 74 15                    -  je gamedll_x64_rwdi.dll+ABDAB9
+"gamedll_x64_rwdi.dll"+ABDAA4: 0F 2F F8                 -  comiss xmm7,xmm0
+"gamedll_x64_rwdi.dll"+ABDAA7: 72 10                    -  jb gamedll_x64_rwdi.dll+ABDAB9
+"gamedll_x64_rwdi.dll"+ABDAA9: 41 B1 01                 -  mov r9l,01
+"gamedll_x64_rwdi.dll"+ABDAAC: 45 33 C0                 -  xor r8d,r8d
+"gamedll_x64_rwdi.dll"+ABDAAF: 33 D2                    -  xor edx,edx
+}
+</AssemblerScript>
+          <Hotkeys>
+            <Hotkey>
+              <Action>Toggle Activation</Action>
+              <Keys>
+                <Key>112</Key>
+              </Keys>
+              <ID>0</ID>
+            </Hotkey>
+          </Hotkeys>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2522</ID>
+          <Description>"【F2】  无限耐力"</Description>
+          <LastState/>
+          <Color>4080FF</Color>
+          <VariableType>Auto Assembler Script</VariableType>
+          <AssemblerScript>[Enable]
+
+aobscanmodule(InfiniteStamina1,gamedll_x64_rwdi.dll,F3 0F 10 4B 10 F3 41 0F 5C C8)
+registersymbol(InfiniteStamina1)
+
+aobscanmodule(InfiniteStamina2,gamedll_x64_rwdi.dll,F3 0F 5C C7 F3 0F 11 43 10)
+registersymbol(InfiniteStamina2)
+
+InfiniteStamina1+5:
+db F3 41 0F 58 C8
+
+InfiniteStamina2:
+db F3 0F 58 C7
+
+[Disable]
+
+InfiniteStamina1+5:
+db F3 41 0F 5C C8
+unregistersymbol(InfiniteStamina1)
+
+InfiniteStamina2:
+db F3 0F 5C C7
+unregistersymbol(InfiniteStamina2)
+</AssemblerScript>
+          <Hotkeys>
+            <Hotkey>
+              <Action>Toggle Activation</Action>
+              <Keys>
+                <Key>113</Key>
+              </Keys>
+              <ID>0</ID>
+            </Hotkey>
+          </Hotkeys>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>328</ID>
+          <Description>"【F3】  无限药水持续时间"</Description>
+          <LastState/>
+          <Color>26D0D9</Color>
+          <VariableType>Auto Assembler Script</VariableType>
+          <AssemblerScript>[ENABLE]
+
+aobscanmodule(UnlimitedPotionDuration,gamedll_x64_rwdi.dll,0F 28 F9 F3 0F 5C C7)
+UnlimitedPotionDuration+3:
+  db 90 90 90 90
+registersymbol(UnlimitedPotionDuration)
+
+[DISABLE]
+UnlimitedPotionDuration+3:
+  db F3 0F 5C C7
+unregistersymbol(UnlimitedPotionDuration)
+</AssemblerScript>
+          <Hotkeys>
+            <Hotkey>
+              <Action>Toggle Activation</Action>
+              <Keys>
+                <Key>114</Key>
+              </Keys>
+              <ID>0</ID>
+            </Hotkey>
+          </Hotkeys>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1236</ID>
+          <Description>"【F4】  武器无限耐久"</Description>
+          <LastState/>
+          <Color>00EA75</Color>
+          <VariableType>Auto Assembler Script</VariableType>
+          <AssemblerScript>[ENABLE]
+
+aobscanmodule(iw_aob1,gamedll_x64_rwdi.dll,0F 2F F0 76 11 48 8B 47 18)
+registersymbol(iw_aob1)
+
+iw_aob1+3:
+db 90 90
+
+
+[DISABLE]
+
+iw_aob1+3:
+db 76 11
+unregistersymbol(iw_aob1)
+</AssemblerScript>
+          <Hotkeys>
+            <Hotkey>
+              <Action>Toggle Activation</Action>
+              <Keys>
+                <Key>115</Key>
+              </Keys>
+              <ID>0</ID>
+            </Hotkey>
+          </Hotkeys>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>11025</ID>
+          <Description>"【F5】  安全区手持武器"</Description>
+          <LastState/>
+          <Color>B5B500</Color>
+          <VariableType>Auto Assembler Script</VariableType>
+          <AssemblerScript>{ Game   : DyingLightGame.exe
+  Version: 1.12.2
+  Date   : 2017-06-14
+  Author : ray2160
+
+  This script does blah blah blah
+}
+
+[ENABLE]
+
+aobscanmodule(WeaponInSafeZone,gamedll_x64_rwdi.dll,FF 83 78 09 00 00) // should be unique
+registersymbol(WeaponInSafeZone)
+
+WeaponInSafeZone:
+  db 90 90 90 90 90 90
+
+[DISABLE]
+
+WeaponInSafeZone:
+  db FF 83 78 09 00 00
+unregistersymbol(WeaponInSafeZone)
+
+{
+// ORIGINAL CODE - INJECTION POINT: "gamedll_x64_rwdi.dll"+AF16F4
+
+"gamedll_x64_rwdi.dll"+AF16C4: 48 8B 8B 70 09 00 00  -  mov rcx,[rbx+00000970]
+"gamedll_x64_rwdi.dll"+AF16CB: C1 E2 03              -  shl edx,03
+"gamedll_x64_rwdi.dll"+AF16CE: FF 15 3C 8D 84 00     -  call qword ptr [gamedll_x64_rwdi.dll+133A410]
+"gamedll_x64_rwdi.dll"+AF16D4: 48 89 83 70 09 00 00  -  mov [rbx+00000970],rax
+"gamedll_x64_rwdi.dll"+AF16DB: 8B 8B 78 09 00 00     -  mov ecx,[rbx+00000978]
+"gamedll_x64_rwdi.dll"+AF16E1: 48 8B 83 70 09 00 00  -  mov rax,[rbx+00000970]
+"gamedll_x64_rwdi.dll"+AF16E8: 48 8D 14 C8           -  lea rdx,[rax+rcx*8]
+"gamedll_x64_rwdi.dll"+AF16EC: 48 85 D2              -  test rdx,rdx
+"gamedll_x64_rwdi.dll"+AF16EF: 74 03                 -  je gamedll_x64_rwdi.dll+AF16F4
+"gamedll_x64_rwdi.dll"+AF16F1: 48 89 3A              -  mov [rdx],rdi
+// ---------- INJECTING HERE ----------
+"gamedll_x64_rwdi.dll"+AF16F4: FF 83 78 09 00 00     -  inc [rbx+00000978]
+// ---------- DONE INJECTING  ----------
+"gamedll_x64_rwdi.dll"+AF16FA: 48 8B CB              -  mov rcx,rbx
+"gamedll_x64_rwdi.dll"+AF16FD: E8 EE 23 FF FF        -  call gamedll_x64_rwdi.dll+AE3AF0
+"gamedll_x64_rwdi.dll"+AF1702: 40 32 C6              -  xor al,sil
+"gamedll_x64_rwdi.dll"+AF1705: 48 8B 74 24 40        -  mov rsi,[rsp+40]
+"gamedll_x64_rwdi.dll"+AF170A: 74 26                 -  je gamedll_x64_rwdi.dll+AF1732
+"gamedll_x64_rwdi.dll"+AF170C: 48 8B CB              -  mov rcx,rbx
+"gamedll_x64_rwdi.dll"+AF170F: E8 DC 23 FF FF        -  call gamedll_x64_rwdi.dll+AE3AF0
+"gamedll_x64_rwdi.dll"+AF1714: 84 C0                 -  test al,al
+"gamedll_x64_rwdi.dll"+AF1716: 74 1A                 -  je gamedll_x64_rwdi.dll+AF1732
+"gamedll_x64_rwdi.dll"+AF1718: 48 8B CB              -  mov rcx,rbx
+}
+</AssemblerScript>
+          <Hotkeys>
+            <Hotkey>
+              <Action>Toggle Activation</Action>
+              <Keys>
+                <Key>116</Key>
+              </Keys>
+              <ID>0</ID>
+            </Hotkey>
+          </Hotkeys>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2044</ID>
+          <Description>"【F6】  简单开锁"</Description>
+          <LastState/>
+          <Color>FF8000</Color>
+          <VariableType>Auto Assembler Script</VariableType>
+          <AssemblerScript>[Enable]
+
+alloc(elp_1,32,gamedll_x64_rwdi.dll)
+aobscanmodule(elp_aob1,gamedll_x64_rwdi.dll,F3 0F 10 56 50 F3 0F 10 4E 54)
+registersymbol(elp_aob1)
+label(returnhere_elp_1)
+
+
+elp_1:
+movss xmm1,[rsi+54]
+mov [rsi+54],(float)999999
+jmp returnhere_elp_1
+
+
+elp_aob1+5:
+jmp elp_1
+returnhere_elp_1:
+
+[Disable]
+
+elp_aob1+5:
+db F3 0F 10 4E 54
+unregistersymbol(elp_aob1)
+dealloc(elp_1)
+</AssemblerScript>
+          <Hotkeys>
+            <Hotkey>
+              <Action>Toggle Activation</Action>
+              <Keys>
+                <Key>117</Key>
+              </Keys>
+              <ID>0</ID>
+            </Hotkey>
+          </Hotkeys>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>11373</ID>
+          <Description>"【F7】  快速武器摆动（砍刀和刀）"</Description>
+          <LastState/>
+          <Color>FF0080</Color>
+          <VariableType>Auto Assembler Script</VariableType>
+          <AssemblerScript>{
+	Process			: DyingLightGame.exe  -  (x64)
+	Module			: gamedll_x64_rwdi.dll
+	Game Title		: Dying Light
+	Game Version	: 1.15.0.0
+	CE Version		: 6.7
+	Script Version	: 0.0.1
+	Date			: 03/04/18
+	Author			: TheyCallMeTim13
+	Name			: WeaponAttackSpeedHook
+
+	Weapon Attack Speed Hook
+}
+
+{$STRICT}
+
+define(address, gamedll_x64_rwdi.ShutdownGameScriptDLL+CEA731)
+define(bytes, F3 0F 58 84 9F 28 03 00 00)
+
+////
+//// ------------------------------ ENABLE ------------------------------
+[ENABLE]
+aobScanModule(aobWeaponAttackSpeedHook, gamedll_x64_rwdi.dll, 78xx85xx78xx48xxxxF3xxxxxxxxxxxxxxxxF3xxxxxxF3xxxxxxxxxxxxxxxx48xxxxF3xxxxxxxxxxxxxxxx48xxxxxxxx48xxxxxxxxxxF3xxxxxxxxxxxxxxxx48xxxxxxxx48xxxxxxxxxx)
+define(injWeaponAttackSpeedHook, aobWeaponAttackSpeedHook+16)
+assert(injWeaponAttackSpeedHook, bytes)
+registerSymbol(injWeaponAttackSpeedHook)
+
+alloc(memWeaponAttackSpeedHook, 0x400, injWeaponAttackSpeedHook)
+
+label(fltWeaponAttackSpeedHook)
+registerSymbol(fltWeaponAttackSpeedHook)
+
+label(ptrWeaponAttackSpeedHook)
+registerSymbol(ptrWeaponAttackSpeedHook)
+
+label(n_code)
+label(o_code)
+label(exit)
+label(return)
+
+memWeaponAttackSpeedHook:
+	dd 0
+	dd 0
+	dd 0
+	dd 0
+	fltWeaponAttackSpeedHook:
+		dd (float)0.25
+	align 10
+	ptrWeaponAttackSpeedHook:
+		dq 0
+	align 10 CC
+	n_code:
+		push rax
+		movaps [memWeaponAttackSpeedHook],xmm1
+		lea rax,[rdi+rbx*4+328]
+		mov [ptrWeaponAttackSpeedHook],rax
+		movss xmm1,[rax]
+		mulss xmm1,[fltWeaponAttackSpeedHook]
+		addss xmm0,xmm1
+	o_code:
+		// addss xmm0,[rdi+rbx*4+00000328]
+	exit:
+		movaps xmm1,[memWeaponAttackSpeedHook]
+		pop rax
+		jmp return
+
+
+////
+//// ---------- Injection Point ----------
+injWeaponAttackSpeedHook:
+	jmp n_code
+	nop
+	nop
+	nop
+	nop
+	return:
+
+
+////
+//// ------------------------------ DISABLE ------------------------------
+[DISABLE]
+////
+//// ---------- Injection Point ----------
+injWeaponAttackSpeedHook:
+	db bytes
+
+unregisterSymbol(injWeaponAttackSpeedHook)
+
+unregisterSymbol(fltWeaponAttackSpeedHook)
+
+unregisterSymbol(ptrWeaponAttackSpeedHook)
+
+dealloc(memWeaponAttackSpeedHook)
+
+{
+//// Injection Point: gamedll_x64_rwdi.ShutdownGameScriptDLL+CEA731  -  000007FEDE84D141
+//// AOB address: 000007FEDE84D12B  -  gamedll_x64_rwdi.ShutdownGameScriptDLL+CEA71B
+//// Process: DyingLightGame.exe  -  000000013F910000
+//// Module: gamedll_x64_rwdi.dll  -  000007FEDDB60000
+//// Module Size: 0000000001FBB000
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEA6E3:  83 FB 0D                    -  cmp ebx,0D
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEA6E6:  74 69                       -  je 7FEDE84D161
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEA6E8:  83 FB 0F                    -  cmp ebx,0F
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEA6EB:  74 64                       -  je 7FEDE84D161
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEA6ED:  83 FB 0C                    -  cmp ebx,0C
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEA6F0:  74 5F                       -  je 7FEDE84D161
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEA6F2:  48 63 8F 78020000           -  movsxd  rcx,dword ptr [rdi+00000278]
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEA6F9:  0F57 C0                     -  xorps xmm0,xmm0
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEA6FC:  83 F9 FF                    -  cmp ecx,-01
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEA6FF:  74 30                       -  je 7FEDE84D141
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEA701:  48 63 87 10010000           -  movsxd  rax,dword ptr [rdi+00000110]
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEA708:  F3 0F10 8C 9F 28030000      -  movss xmm1,[rdi+rbx*4+00000328]
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEA711:  F3 0F5C 8F 70020000         -  subss xmm1,[rdi+00000270]
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEA719:  85 C0                       -  test eax,eax
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEA71B:  78 10                       -  js 7FEDE84D13D                     &lt;&lt;&lt;--- AOB Starts Here
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEA71D:  85 C9                       -  test ecx,ecx
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEA71F:  78 0C                       -  js 7FEDE84D13D
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEA721:  48 03 C8                    -  add rcx,rax
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEA724:  F3 0F10 84 8F B8010000      -  movss xmm0,[rdi+rcx*4+000001B8]
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEA72D:  F3 0F5C C1                  -  subss xmm0,xmm1
+////  INJECTING START  ----------------------------------------------------------
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEA731:  F3 0F58 84 9F 28030000      -  addss xmm0,[rdi+rbx*4+00000328]
+////  INJECTING END  ----------------------------------------------------------
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEA73A:  48 63 C2                    -  movsxd  rax,edx
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEA73D:  F3 0F59 84 87 FC020000      -  mulss xmm0,[rdi+rax*4+000002FC]
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEA746:  48 8B 5C 24 30              -  mov rbx,[rsp+30]
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEA74B:  48 83 C4 20                 -  add rsp,20
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEA74F:  5F                          -  pop rdi
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEA750:  C3                          -  ret
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEA751:  F3 0F10 84 9F 28030000      -  movss xmm0,[rdi+rbx*4+00000328]
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEA75A:  48 8B 5C 24 30              -  mov rbx,[rsp+30]
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEA75F:  48 83 C4 20                 -  add rsp,20
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEA763:  5F                          -  pop rdi
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEA764:  C3                          -  ret
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEA765:  CC                          -  int 3
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEA766:  CC                          -  int 3
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEA767:  CC                          -  int 3
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEA768:  CC                          -  int 3
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEA769:  CC                          -  int 3
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEA76A:  CC                          -  int 3
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEA76B:  CC                          -  int 3
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEA76C:  CC                          -  int 3
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEA76D:  CC                          -  int 3
+//// Template: I2CEA_AOBFullInjectionWithValues
+//// Generated with: I2 Cheat Engine Auto Assembler Script Template Generator
+//// Code Happy, Code Freely, Be Awesome.
+}
+</AssemblerScript>
+          <Hotkeys>
+            <Hotkey>
+              <Action>Toggle Activation</Action>
+              <Keys>
+                <Key>118</Key>
+              </Keys>
+              <ID>0</ID>
+            </Hotkey>
+          </Hotkeys>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>11375</ID>
+          <Description>"【F8】  快速挥动双手武器（需要先开单手）"</Description>
+          <LastState/>
+          <Color>DC1EE1</Color>
+          <VariableType>Auto Assembler Script</VariableType>
+          <AssemblerScript>{
+	Process			: DyingLightGame.exe  -  (x64)
+	Module			: gamedll_x64_rwdi.dll
+	Game Title		: Dying Light
+	Game Version	: 1.15.0.0
+	CE Version		: 6.7
+	Script Version	: 0.0.1
+	Date			: 03/04/18
+	Author			: TheyCallMeTim13
+	Name			: WeaponAttackSpeed2hHook
+
+	Weapon Attack Speed 2h Hook
+
+	2 Hand
+}
+
+{$STRICT}
+
+define(address, gamedll_x64_rwdi.ShutdownGameScriptDLL+CEF989)
+define(bytes, F3 0F 10 84 83 84 03 00 00)
+
+////
+//// ------------------------------ ENABLE ------------------------------
+[ENABLE]
+aobScanModule(aobWeaponAttackSpeed2hHook, gamedll_x64_rwdi.dll, 74xx48xxxxE8xxxxxxxx48xxxx48xxxxxx74xx48xxxxFFxxxxxxxxxx83xxxx74xx80xxxxxxxxxxxx75xx0F57xx48xxxxxxxx48xxxxxxxxxx48xxxxxxxxxxxxF3xxxxxxxxxxxxxxxx48xxxxxxxx48xxxxxxxxxx)
+define(injWeaponAttackSpeed2hHook, aobWeaponAttackSpeed2hHook+3F)
+assert(injWeaponAttackSpeed2hHook, bytes)
+registerSymbol(injWeaponAttackSpeed2hHook)
+
+alloc(memWeaponAttackSpeed2hHook, 0x400, injWeaponAttackSpeed2hHook)
+
+label(ptrWeaponAttackSpeed2hHook)
+registerSymbol(ptrWeaponAttackSpeed2hHook)
+
+label(n_code)
+label(o_code)
+label(exit)
+label(return)
+
+memWeaponAttackSpeed2hHook:
+	ptrWeaponAttackSpeed2hHook:
+		dq 0
+	align 10 CC
+	n_code:
+		push rdx
+		lea rdx,[rbx+rax*4+00000384]
+		mov [ptrWeaponAttackSpeed2hHook],rdx
+		movss xmm0,[rdx]
+		mulss xmm0,[fltWeaponAttackSpeedHook]
+	o_code:
+		// movss xmm0,[rbx+rax*4+00000384]
+	exit:
+		pop rdx
+		jmp return
+
+
+////
+//// ---------- Injection Point ----------
+injWeaponAttackSpeed2hHook:
+	jmp n_code
+	nop
+	nop
+	nop
+	nop
+	return:
+
+
+////
+//// ------------------------------ DISABLE ------------------------------
+[DISABLE]
+////
+//// ---------- Injection Point ----------
+injWeaponAttackSpeed2hHook:
+	db bytes
+
+unregisterSymbol(injWeaponAttackSpeed2hHook)
+
+unregisterSymbol(ptrWeaponAttackSpeed2hHook)
+
+dealloc(memWeaponAttackSpeed2hHook)
+
+{
+//// Injection Point: gamedll_x64_rwdi.ShutdownGameScriptDLL+CEF989  -  000007FEDE852399
+//// AOB address: 000007FEDE85235A  -  gamedll_x64_rwdi.ShutdownGameScriptDLL+CEF94A
+//// Process: DyingLightGame.exe  -  000000013F910000
+//// Module: gamedll_x64_rwdi.dll  -  000007FEDDB60000
+//// Module Size: 0000000001FBB000
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEF942:  E8 49B4DFFF                 -  call 7FEDE64D7A0
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEF947:  48 85 C0                    -  test rax,rax
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEF94A:  74 1F                       -  je 7FEDE85237B                     &lt;&lt;&lt;--- AOB Starts Here
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEF94C:  48 8B CF                    -  mov rcx,rdi
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEF94F:  E8 3CB4DFFF                 -  call 7FEDE64D7A0
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEF954:  48 8B C8                    -  mov rcx,rax
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEF957:  48 83 C1 58                 -  add rcx,58
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEF95B:  74 0E                       -  je 7FEDE85237B
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEF95D:  48 8B 01                    -  mov rax,[rcx]
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEF960:  FF 90 C0010000              -  call qword ptr [rax+000001C0]
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEF966:  83 F8 0F                    -  cmp eax,0F
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEF969:  74 17                       -  je 7FEDE852392
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEF96B:  80 BB 70070000 00           -  cmp byte ptr [rbx+00000770],00
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEF972:  75 0E                       -  jne 7FEDE852392
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEF974:  0F57 C0                     -  xorps xmm0,xmm0
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEF977:  48 8B 5C 24 30              -  mov rbx,[rsp+30]
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEF97C:  48 83 C4 20                 -  add rsp,20
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEF980:  5F                          -  pop rdi
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEF981:  C3                          -  ret
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEF982:  48 63 83 1C010000           -  movsxd  rax,dword ptr [rbx+0000011C]
+////  INJECTING START  ----------------------------------------------------------
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEF989:  F3 0F10 84 83 84030000      -  movss xmm0,[rbx+rax*4+00000384]
+////  INJECTING END  ----------------------------------------------------------
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEF992:  48 8B 5C 24 30              -  mov rbx,[rsp+30]
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEF997:  48 83 C4 20                 -  add rsp,20
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEF99B:  5F                          -  pop rdi
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEF99C:  C3                          -  ret
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEF99D:  CC                          -  int 3
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEF99E:  CC                          -  int 3
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEF99F:  CC                          -  int 3
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEF9A0:  40 53                       -  push rbx
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEF9A2:  48 83 EC 20                 -  sub rsp,20
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEF9A6:  48 8B 01                    -  mov rax,[rcx]
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEF9A9:  48 8B D9                    -  mov rbx,rcx
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEF9AC:  FF 50 20                    -  call qword ptr [rax+20]
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEF9AF:  8B 8B 10010000              -  mov ecx,[rbx+00000110]
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEF9B5:  0FB6 90 68080000            -  movzx edx,byte ptr [rax+00000868]
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEF9BC:  83 F9 FF                    -  cmp ecx,-01
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEF9BF:  75 1A                       -  jne 7FEDE8523EB
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEF9C1:  8B 83 1C010000              -  mov eax,[rbx+0000011C]
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEF9C7:  3B C1                       -  cmp eax,ecx
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEF9C9:  74 10                       -  je 7FEDE8523EB
+gamedll_x64_rwdi.ShutdownGameScriptDLL+CEF9CB:  80 BB 4E060000 00           -  cmp byte ptr [rbx+0000064E],00
+//// Template: I2CEA_AOBFullInjectionWithValues
+//// Generated with: I2 Cheat Engine Auto Assembler Script Template Generator
+//// Code Happy, Code Freely, Be Awesome.
+}
+</AssemblerScript>
+          <Hotkeys>
+            <Hotkey>
+              <Action>Toggle Activation</Action>
+              <Keys>
+                <Key>119</Key>
+              </Keys>
+              <ID>0</ID>
+            </Hotkey>
+          </Hotkeys>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2722</ID>
+          <Description>"【 / 】  武器克隆（无限丢弃）"</Description>
+          <LastState/>
+          <Color>0000FF</Color>
+          <VariableType>Auto Assembler Script</VariableType>
+          <AssemblerScript>// Game   : DyingLightGame.exe
+ // Version:
+ // Date   :
+ // Author : mgr.inz.Player
+ [ENABLE]
+ aobscanmodule(aob_cloneWeapon,gamedll_x64_rwdi.dll,7E 1A 8B 55 7F)
+ registersymbol(aob_cloneWeapon)
+
+ aob_cloneWeapon:
+   db 90 90
+
+ [DISABLE]
+ aob_cloneWeapon:
+   db 7E 1A
+
+ unregistersymbol(aob_cloneWeapon)
+
+ {
+ // ORIGINAL CODE - INJECTION POINT: "gamedll_x64_rwdi.dll"+AA70A4
+
+ "gamedll_x64_rwdi.dll"+AA7079: 44 8B C3                 -  mov r8d,ebx
+ "gamedll_x64_rwdi.dll"+AA707C: E8 1F EB BA FF           -  call gamedll_x64_rwdi.dll+655BA0
+ "gamedll_x64_rwdi.dll"+AA7081: 4C 8B E0                 -  mov r12,rax
+ "gamedll_x64_rwdi.dll"+AA7084: 40 38 75 6F              -  cmp [rbp+6F],sil
+ "gamedll_x64_rwdi.dll"+AA7088: 74 79                    -  je gamedll_x64_rwdi.dll+AA7103
+ "gamedll_x64_rwdi.dll"+AA708A: 48 8B 54 24 48           -  mov rdx,[rsp+48]
+ "gamedll_x64_rwdi.dll"+AA708F: 48 8D 4C 24 48           -  lea rcx,[rsp+48]
+ "gamedll_x64_rwdi.dll"+AA7094: FF 92 10 05 00 00        -  call qword ptr [rdx+00000510]
+ "gamedll_x64_rwdi.dll"+AA709A: 48 8D 8F 00 09 00 00     -  lea rcx,[rdi+00000900]
+ "gamedll_x64_rwdi.dll"+AA70A1: 83 F8 01                 -  cmp eax,01
+ // ---------- INJECTING HERE ----------
+ "gamedll_x64_rwdi.dll"+AA70A4: 7E 1A                    -  jle gamedll_x64_rwdi.dll+AA70C0
+ // ---------- DONE INJECTING  ----------
+ "gamedll_x64_rwdi.dll"+AA70A6: 8B 55 7F                 -  mov edx,[rbp+7F]
+ "gamedll_x64_rwdi.dll"+AA70A9: 4C 8B 11                 -  mov r10,[rcx]
+ "gamedll_x64_rwdi.dll"+AA70AC: 44 8B 45 77              -  mov r8d,[rbp+77]
+ "gamedll_x64_rwdi.dll"+AA70B0: 89 54 24 20              -  mov [rsp+20],edx
+ "gamedll_x64_rwdi.dll"+AA70B4: 45 8B CE                 -  mov r9d,r14d
+ "gamedll_x64_rwdi.dll"+AA70B7: 49 8B D5                 -  mov rdx,r13
+ "gamedll_x64_rwdi.dll"+AA70BA: 41 FF 52 78              -  call qword ptr [r10+78]
+ "gamedll_x64_rwdi.dll"+AA70BE: EB 10                    -  jmp gamedll_x64_rwdi.dll+AA70D0
+ "gamedll_x64_rwdi.dll"+AA70C0: 48 8B 01                 -  mov rax,[rcx]
+ "gamedll_x64_rwdi.dll"+AA70C3: 44 8B 4D 7F              -  mov r9d,[rbp+7F]
+ "gamedll_x64_rwdi.dll"+AA70C7: 45 8B C6                 -  mov r8d,r14d
+ }
+</AssemblerScript>
+          <Hotkeys>
+            <Hotkey>
+              <Action>Toggle Activation</Action>
+              <Keys>
+                <Key>111</Key>
+              </Keys>
+              <ID>0</ID>
+            </Hotkey>
+          </Hotkeys>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>10942</ID>
+          <Description>"【 * 】  秒杀附近僵尸"</Description>
+          <LastState/>
+          <Color>4080FF</Color>
+          <VariableType>Auto Assembler Script</VariableType>
+          <AssemblerScript>[ENABLE]
+
+aobscanmodule(ZombiesDie,gamedll_x64_rwdi.dll,0F 2F 76 78 0F 83 A7 00 00 00)
+alloc(newmem,$100,"gamedll_x64_rwdi.dll"+278DBC)
+
+label(code)
+label(return)
+
+newmem:
+
+code:
+  comiss xmm6,[rsi+78]
+  jmp return+A7
+
+ZombiesDie:
+  jmp code
+  nop
+  nop
+  nop
+  nop
+  nop
+return:
+registersymbol(ZombiesDie)
+
+[DISABLE]
+
+ZombiesDie:
+  db 0F 2F 76 78 0F 83 A7 00 00 00
+
+unregistersymbol(ZombiesDie)
+dealloc(newmem)
+</AssemblerScript>
+          <Hotkeys>
+            <Hotkey>
+              <Action>Toggle Activation</Action>
+              <Keys>
+                <Key>106</Key>
+              </Keys>
+              <ID>0</ID>
+            </Hotkey>
+          </Hotkeys>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2025</ID>
+          <Description>"【 - 】  背包编辑器"</Description>
+          <Options moHideChildren="1"/>
+          <LastState/>
+          <Color>00DDDD</Color>
+          <VariableType>Auto Assembler Script</VariableType>
+          <AssemblerScript>[ENABLE]
+//code from here to '[DISABLE]' will be used to enable the cheat
+{
+The editor is pretty straight forward. Before use, hit the update button. It will
+pull your current inventory for that tab. Make your changes and hit apply. If it
+errors out for any reason, let me know.
+}
+aobscanmodule(ItemEditDataAOB,gamedll_x64_rwdi.dll,48 8B 78 60 48 8B D9)
+aobscanmodule(BaseItemTableAOB,gamedll_x64_rwdi.dll,8B C8 48 8B 42 E8 4C 8B 04 C8)
+alloc(newmem,2048,gamedll_x64_rwdi.dll)
+label(ItemEditStart)
+label(ItemEditEnd)
+label(BaseItemStart)
+label(BaseItemEnd)
+label(ItemEditData)
+registersymbol(ItemEditDataAOB)
+registersymbol(BaseItemTableAOB)
+registersymbol(ItemEditData)
+
+newmem:
+
+ItemEditStart:
+mov [ItemEditData],rax
+mov rdi,[rax+60]
+mov rbx,rcx
+jmp ItemEditEnd
+
+BaseItemStart:
+mov [ItemEditData+8],rdx
+mov ecx,eax
+mov rax,[rdx-18]
+jmp BaseItemEnd
+
+ItemEditData:
+
+ItemEditDataAOB:
+jmp ItemEditStart
+nop
+nop
+ItemEditEnd:
+
+BaseItemTableAOB:
+jmp BaseItemStart
+nop
+BaseItemEnd:
+ 
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+dealloc(newmem)
+
+ItemEditDataAOB:
+db 48 8B 78 60 48 8B D9
+
+BaseItemTableAOB:
+db 8B C8 48 8B 42 E8
+
+unregistersymbol(ItemEditDataAOB)
+unregistersymbol(BaseItemTableAOB)
+unregistersymbol(ItemEditData)
+</AssemblerScript>
+          <Hotkeys>
+            <Hotkey>
+              <Action>Toggle Activation</Action>
+              <Keys>
+                <Key>109</Key>
+              </Keys>
+              <ID>0</ID>
+            </Hotkey>
+          </Hotkeys>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>2027</ID>
+              <Description>"Show Editor"</Description>
+              <LastState/>
+              <VariableType>Auto Assembler Script</VariableType>
+              <AssemblerScript>[ENABLE]
+//code from here to '[DISABLE]' will be used to enable the cheat
+LuaCall(EditorShow())
+ 
+ 
+[DISABLE]
+//code from here till the end of the code will be used to disable the cheat
+LuaCall(EditorHide())
+</AssemblerScript>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2521</ID>
+          <Description>"一击必杀"</Description>
+          <LastState/>
+          <Color>34CE00</Color>
+          <VariableType>Auto Assembler Script</VariableType>
+          <AssemblerScript>[Enable]
+
+aobscanmodule(InstantKill,gamedll_x64_rwdi.dll,F3 0F 5C CE F3 41 0F 11)
+registersymbol(InstantKill)
+
+InstantKill:
+db F3 0F 5C C9 F3 41 0F 11 4F 78
+
+[Disable]
+
+InstantKill:
+db F3 0F 5C CE F3 41 0F 11 4F 7C
+unregistersymbol(InstantKill)
+</AssemblerScript>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2717</ID>
+          <Description>"闪光弹瞬间冷却"</Description>
+          <LastState/>
+          <Color>D7D700</Color>
+          <VariableType>Auto Assembler Script</VariableType>
+          <AssemblerScript>{ Game   : DyingLightGame.exe
+  Version:
+  Date   : 2018-03-30
+  Author : ray2160
+}
+
+[ENABLE]
+
+aobscanmodule(InstantCooldownFlares,gamedll_x64_rwdi.dll,F3 0F 11 01 77 23)
+alloc(newmem,$100,"gamedll_x64_rwdi.dll"+BB96B9)
+
+label(code)
+label(return)
+
+newmem:
+
+code:
+  //movss [rcx],xmm0
+  mov [rcx],(float)1
+  ja gamedll_x64_rwdi.ShutdownGameScriptDLL+BB6B82
+  jmp return
+
+InstantCooldownFlares:
+  jmp newmem
+  nop
+return:
+registersymbol(InstantCooldownFlares)
+
+[DISABLE]
+
+InstantCooldownFlares:
+  db F3 0F 11 01 77 23
+
+unregistersymbol(InstantCooldownFlares)
+dealloc(newmem)
+
+{
+// ORIGINAL CODE - INJECTION POINT: "gamedll_x64_rwdi.dll"+BB96B9
+
+"gamedll_x64_rwdi.dll"+BB969E: CC                       -  int 3
+"gamedll_x64_rwdi.dll"+BB969F: CC                       -  int 3
+"gamedll_x64_rwdi.dll"+BB96A0: 0F 57 D2                 -  xorps xmm2,xmm2
+"gamedll_x64_rwdi.dll"+BB96A3: 0F 2F CA                 -  comiss xmm1,xmm2
+"gamedll_x64_rwdi.dll"+BB96A6: 76 3A                    -  jna gamedll_x64_rwdi.dll+BB96E2
+"gamedll_x64_rwdi.dll"+BB96A8: F3 0F 10 01              -  movss xmm0,[rcx]
+"gamedll_x64_rwdi.dll"+BB96AC: 8B 41 14                 -  mov eax,[rcx+14]
+"gamedll_x64_rwdi.dll"+BB96AF: F3 0F 5C C1              -  subss xmm0,xmm1
+"gamedll_x64_rwdi.dll"+BB96B3: 89 41 28                 -  mov [rcx+28],eax
+"gamedll_x64_rwdi.dll"+BB96B6: 0F 2F C2                 -  comiss xmm0,xmm2
+// ---------- INJECTING HERE ----------
+"gamedll_x64_rwdi.dll"+BB96B9: F3 0F 11 01              -  movss [rcx],xmm0
+"gamedll_x64_rwdi.dll"+BB96BD: 77 23                    -  ja gamedll_x64_rwdi.dll+BB96E2
+// ---------- DONE INJECTING  ----------
+"gamedll_x64_rwdi.dll"+BB96BF: 80 79 19 00              -  cmp byte ptr [rcx+19],00
+"gamedll_x64_rwdi.dll"+BB96C3: C6 41 05 01              -  mov byte ptr [rcx+05],01
+"gamedll_x64_rwdi.dll"+BB96C7: 75 0A                    -  jne gamedll_x64_rwdi.dll+BB96D3
+"gamedll_x64_rwdi.dll"+BB96C9: 80 79 04 00              -  cmp byte ptr [rcx+04],00
+"gamedll_x64_rwdi.dll"+BB96CD: 74 04                    -  je gamedll_x64_rwdi.dll+BB96D3
+"gamedll_x64_rwdi.dll"+BB96CF: C6 41 04 00              -  mov byte ptr [rcx+04],00
+"gamedll_x64_rwdi.dll"+BB96D3: 8B 41 20                 -  mov eax,[rcx+20]
+"gamedll_x64_rwdi.dll"+BB96D6: C7 01 00 00 00 00        -  mov [rcx],00000000
+"gamedll_x64_rwdi.dll"+BB96DC: 89 41 28                 -  mov [rcx+28],eax
+"gamedll_x64_rwdi.dll"+BB96DF: B0 01                    -  mov al,01
+}
+</AssemblerScript>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1102</ID>
+          <Description>"无限材料"</Description>
+          <LastState/>
+          <Color>FF8000</Color>
+          <VariableType>Auto Assembler Script</VariableType>
+          <AssemblerScript>[Enable]
+
+alloc(ici_1,32,gamedll_x64_rwdi.dll)
+aobscanmodule(ici_aob1,gamedll_x64_rwdi.dll,48 39 1C 28 75 59 8B 73 40 48 8D 4B 40)
+registersymbol(ici_aob1)
+label(returnhere_ici_1)
+
+
+ici_1:
+mov [rbx+40],10
+mov esi,[rbx+40]
+lea rcx,[rbx+40]
+jmp returnhere_ici_1
+
+
+ici_aob1+6:
+jmp ici_1
+nop
+nop
+returnhere_ici_1:
+
+[Disable]
+
+ici_aob1+6:
+db 8B 73 40 48 8D 4B 40
+unregistersymbol(ici_aob1)
+dealloc(ici_1)
+</AssemblerScript>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>354</ID>
+          <Description>"免费蓝图需求"</Description>
+          <LastState/>
+          <Color>FF0080</Color>
+          <VariableType>Auto Assembler Script</VariableType>
+          <AssemblerScript>[ENABLE]
+
+aobscanmodule(FreeBluAOB1,gamedll_x64_rwdi.dll,41 8B 44 0D 00 85 C0)
+aobscanmodule(FreeBluAOB2,gamedll_x64_rwdi.dll,44 8B 24 17 41 8D 51 01)
+alloc(newmem,100,gamedll_x64_rwdi.dll)
+
+label(FreeBlu1Start)
+label(FreeBlu2Start)
+label(FreeBlue1End)
+label(FreeBlue2End)
+registersymbol(FreeBluAOB1)
+registersymbol(FreeBluAOB2)
+
+newmem:
+
+FreeBlu1Start:
+mov eax,0
+jmp FreeBlue1End
+
+FreeBlu2Start:
+mov r12d,0
+lea edx,[r9+01]
+jmp FreeBlue2End
+
+FreeBluAOB1:
+jmp FreeBlu1Start
+FreeBlue1End:
+
+FreeBluAOB2:
+jmp FreeBlu2Start
+nop
+nop
+nop
+FreeBlue2End:
+ 
+[DISABLE]
+
+dealloc(newmem)
+
+FreeBluAOB1:
+db 41 8B 44 0D 00
+
+FreeBluAOB2:
+db 44 8B 24 17 41 8D 51 01
+
+unregistersymbol(FreeBluAOB1)
+unregistersymbol(FreeBluAOB2)
+</AssemblerScript>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>1100</ID>
+          <Description>"无限弹药"</Description>
+          <LastState/>
+          <Color>0000FF</Color>
+          <VariableType>Auto Assembler Script</VariableType>
+          <AssemblerScript>[Enable]
+
+aobscanmodule(ica_aob1,gamedll_x64_rwdi.dll,8B 50 40 48 8D 48 40 FF CA E8)
+registersymbol(ica_aob1)
+
+aobscanmodule(ioa_aob1,gamedll_x64_rwdi.dll,48 63 C3 48 03 C0 45 89 44 C2 04)
+registersymbol(ioa_aob1)
+
+ica_aob1+7:
+db 90 90
+
+ioa_aob1+6:
+db 90 90 90 90 90
+
+[Disable]
+
+ica_aob1+7:
+db FF CA
+unregistersymbol(ica_aob1)
+
+ioa_aob1+6:
+db 45 89 44 C2 04
+unregistersymbol(ioa_aob1)
+</AssemblerScript>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2035</ID>
+          <Description>"无限紫外线手电筒"</Description>
+          <LastState/>
+          <Color>00DBDB</Color>
+          <VariableType>Auto Assembler Script</VariableType>
+          <AssemblerScript>[Enable]
+
+aobscanmodule(iuf_aob1,gamedll_x64_rwdi.dll,F3 0F 5C C2 89 41 28)
+registersymbol(iuf_aob1)
+
+iuf_aob1:
+db F3 0F 58 C2
+
+[Disable]
+
+iuf_aob1:
+db F3 0F 5C C2
+unregistersymbol(iuf_aob1)
+</AssemblerScript>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2457</ID>
+          <Description>"勾爪无限"</Description>
+          <LastState/>
+          <Color>36D900</Color>
+          <VariableType>Auto Assembler Script</VariableType>
+          <AssemblerScript>{ Game   : DyingLightGame.exe
+  Version: 1.12.2
+  Date   : 2016-06-13
+  Author : ray2160
+
+  This script does blah blah blah
+}
+
+[ENABLE]
+
+aobscanmodule(InfiniteGrapplingHook,gamedll_x64_rwdi.dll,F3 0F 11 43 40 77)
+registersymbol(InfiniteGrapplingHook)
+
+InfiniteGrapplingHook:
+  db 90 90 90 90 90
+
+
+[DISABLE]
+
+InfiniteGrapplingHook:
+  db F3 0F 11 43 40
+unregistersymbol(InfiniteGrapplingHook)
+
+</AssemblerScript>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2605</ID>
+          <Description>"按钮瞬间冷却"</Description>
+          <LastState/>
+          <Color>D7D700</Color>
+          <VariableType>Auto Assembler Script</VariableType>
+          <AssemblerScript>{ Game   : DyingLightGame.exe
+  Version: 1.12.2
+  Date   : 2016-06-13
+  Author : ray2160
+
+  This script does blah blah blah
+}
+
+[ENABLE]
+
+aobscanmodule(TheButtonInstantCooldown,gamedll_x64_rwdi.dll,F3 0F 11 83 58 2A 00 00)
+registersymbol(TheButtonInstantCooldown)
+
+TheButtonInstantCooldown:
+  db 90 90 90 90 90 90 90 90
+
+
+[DISABLE]
+
+TheButtonInstantCooldown:
+  db F3 0F 11 83 58 2A 00 00
+unregistersymbol(TheButtonInstantCooldown)
+
+{
+// ORIGINAL CODE - INJECTION POINT: "gamedll_x64_rwdi.dll"+AD236E
+
+"gamedll_x64_rwdi.dll"+AD2345: 0F 57 C0                    -  xorps xmm0,xmm0
+"gamedll_x64_rwdi.dll"+AD2348: 0F 2F 83 58 2A 00 00        -  comiss xmm0,[rbx+00002A58]
+"gamedll_x64_rwdi.dll"+AD234F: 72 25                       -  jb gamedll_x64_rwdi.dll+AD2376
+"gamedll_x64_rwdi.dll"+AD2351: 48 8B CB                    -  mov rcx,rbx
+"gamedll_x64_rwdi.dll"+AD2354: E8 37 0E 03 00              -  call gamedll_x64_rwdi.dll+B03190
+"gamedll_x64_rwdi.dll"+AD2359: 48 8B CB                    -  mov rcx,rbx
+"gamedll_x64_rwdi.dll"+AD235C: E8 AF FE FE FF              -  call gamedll_x64_rwdi.dll+AC2210
+"gamedll_x64_rwdi.dll"+AD2361: BA 14 00 00 00              -  mov edx,00000014
+"gamedll_x64_rwdi.dll"+AD2366: 48 8B C8                    -  mov rcx,rax
+"gamedll_x64_rwdi.dll"+AD2369: E8 92 72 09 00              -  call gamedll_x64_rwdi.dll+B69600
+// ---------- INJECTING HERE ----------
+"gamedll_x64_rwdi.dll"+AD236E: F3 0F 11 83 58 2A 00 00     -  movss [rbx+00002A58],xmm0
+// ---------- DONE INJECTING  ----------
+"gamedll_x64_rwdi.dll"+AD2376: 48 83 C4 20                 -  add rsp,20
+"gamedll_x64_rwdi.dll"+AD237A: 5B                          -  pop rbx
+"gamedll_x64_rwdi.dll"+AD237B: F3 C3                       - repe  ret
+"gamedll_x64_rwdi.dll"+AD237D: 0F 1F 00                    -  nop [rax]
+"gamedll_x64_rwdi.dll"+AD2380: A0 22 AD 00 CD 22 AD 00 ED  -  mov al,[ED00AD22CD00AD22]
+"gamedll_x64_rwdi.dll"+AD2389: 22 AD 00 CD 22 AD           -  and ch,[rbp-52DD3300]
+"gamedll_x64_rwdi.dll"+AD238F: 00 CD                       -  add ch,cl
+"gamedll_x64_rwdi.dll"+AD2391: 22 AD 00 CD 22 AD           -  and ch,[rbp-52DD3300]
+"gamedll_x64_rwdi.dll"+AD2397: 00 CD                       -  add ch,cl
+"gamedll_x64_rwdi.dll"+AD2399: 22 AD 00 CD 22 AD           -  and ch,[rbp-52DD3300]
+}
+</AssemblerScript>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2601</ID>
+          <Description>"无限燃料"</Description>
+          <LastState/>
+          <Color>FF8000</Color>
+          <VariableType>Auto Assembler Script</VariableType>
+          <AssemblerScript>{ Game   : DyingLightGame.exe
+  Version: 1.12.2
+  Date   : 2016-06-13
+  Author : ray2160
+
+  This script does blah blah blah
+}
+
+[ENABLE]
+
+aobscanmodule(UnlimitedGas,gamedll_x64_rwdi.dll,18 F3 0F 11 90 30 03 00 00)
+registersymbol(UnlimitedGas)
+
+aobscanmodule(FlamethrowerGas,gamedll_x64_rwdi.dll,F3 0F 11 80 30 03 00 00)
+registersymbol(FlamethrowerGas)
+
+UnlimitedGas+01:
+ db 90 90 90 90 90 90 90 90
+
+FlamethrowerGas:
+  db 90 90 90 90 90 90 90 90
+
+[DISABLE]
+
+UnlimitedGas+01:
+  db F3 0F 11 90 30 03 00 00
+unregistersymbol(UnlimitedGas)
+
+{
+// ORIGINAL CODE - INJECTION POINT: "gamedll_x64_rwdi.dll"+F9BF95
+
+"gamedll_x64_rwdi.dll"+F9BF73: 48 8B 4B 18              -  mov rcx,[rbx+18]
+"gamedll_x64_rwdi.dll"+F9BF77: EB 03                    -  jmp gamedll_x64_rwdi.dll+F9BF7C
+"gamedll_x64_rwdi.dll"+F9BF79: 48 8B CF                 -  mov rcx,rdi
+"gamedll_x64_rwdi.dll"+F9BF7C: F3 0F 58 89 30 03 00 00  -  addss xmm1,[rcx+00000330]
+"gamedll_x64_rwdi.dll"+F9BF84: 0F 2F CA                 -  comiss xmm1,xmm2
+"gamedll_x64_rwdi.dll"+F9BF87: 72 03                    -  jb gamedll_x64_rwdi.dll+F9BF8C
+"gamedll_x64_rwdi.dll"+F9BF89: 0F 28 D1                 -  movaps xmm2,xmm1
+"gamedll_x64_rwdi.dll"+F9BF8C: 48 85 C0                 -  test rax,rax
+"gamedll_x64_rwdi.dll"+F9BF8F: 74 26                    -  je gamedll_x64_rwdi.dll+F9BFB7
+"gamedll_x64_rwdi.dll"+F9BF91: 48 8B 43 18              -  mov rax,[rbx+18]
+// ---------- INJECTING HERE ----------
+"gamedll_x64_rwdi.dll"+F9BF95: F3 0F 11 90 30 03 00 00  -  movss [rax+00000330],xmm2
+// ---------- DONE INJECTING  ----------
+"gamedll_x64_rwdi.dll"+F9BF9D: C7 43 38 00 00 00 3F     -  mov [rbx+38],3F000000
+"gamedll_x64_rwdi.dll"+F9BFA4: 89 7B 34                 -  mov [rbx+34],edi
+"gamedll_x64_rwdi.dll"+F9BFA7: 48 8B 5C 24 58           -  mov rbx,[rsp+58]
+"gamedll_x64_rwdi.dll"+F9BFAC: 0F 28 7C 24 20           -  movaps xmm7,[rsp+20]
+"gamedll_x64_rwdi.dll"+F9BFB1: 48 83 C4 40              -  add rsp,40
+"gamedll_x64_rwdi.dll"+F9BFB5: 5F                       -  pop rdi
+"gamedll_x64_rwdi.dll"+F9BFB6: C3                       -  ret
+"gamedll_x64_rwdi.dll"+F9BFB7: 48 8B C7                 -  mov rax,rdi
+"gamedll_x64_rwdi.dll"+F9BFBA: F3 0F 11 90 30 03 00 00  -  movss [rax+00000330],xmm2
+"gamedll_x64_rwdi.dll"+F9BFC2: C7 43 38 00 00 00 3F     -  mov [rbx+38],3F000000
+}
+
+FlamethrowerGas:
+  db F3 0F 11 80 30 03 00 00
+unregistersymbol(FlamethrowerGas)
+
+{
+// ORIGINAL CODE - INJECTION POINT: "gamedll_x64_rwdi.dll"+F9C5F2
+
+"gamedll_x64_rwdi.dll"+F9C5D3: 33 C0                    -  xor eax,eax
+"gamedll_x64_rwdi.dll"+F9C5D5: F3 0F 58 B0 30 03 00 00  -  addss xmm6,[rax+00000330]
+"gamedll_x64_rwdi.dll"+F9C5DD: 0F 2F F0                 -  comiss xmm6,xmm0
+"gamedll_x64_rwdi.dll"+F9C5E0: 72 03                    -  jb gamedll_x64_rwdi.dll+F9C5E5
+"gamedll_x64_rwdi.dll"+F9C5E2: 0F 28 C6                 -  movaps xmm0,xmm6
+"gamedll_x64_rwdi.dll"+F9C5E5: 48 85 C9                 -  test rcx,rcx
+"gamedll_x64_rwdi.dll"+F9C5E8: 74 06                    -  je gamedll_x64_rwdi.dll+F9C5F0
+"gamedll_x64_rwdi.dll"+F9C5EA: 48 8B 43 18              -  mov rax,[rbx+18]
+"gamedll_x64_rwdi.dll"+F9C5EE: EB 02                    -  jmp gamedll_x64_rwdi.dll+F9C5F2
+"gamedll_x64_rwdi.dll"+F9C5F0: 33 C0                    -  xor eax,eax
+// ---------- INJECTING HERE ----------
+"gamedll_x64_rwdi.dll"+F9C5F2: F3 0F 11 80 30 03 00 00  -  movss [rax+00000330],xmm0
+// ---------- DONE INJECTING  ----------
+"gamedll_x64_rwdi.dll"+F9C5FA: C7 43 34 00 00 00 00     -  mov [rbx+34],00000000
+"gamedll_x64_rwdi.dll"+F9C601: C7 43 38 00 00 00 3F     -  mov [rbx+38],3F000000
+"gamedll_x64_rwdi.dll"+F9C608: 0F 28 74 24 20           -  movaps xmm6,[rsp+20]
+"gamedll_x64_rwdi.dll"+F9C60D: 48 83 C4 30              -  add rsp,30
+"gamedll_x64_rwdi.dll"+F9C611: 5B                       -  pop rbx
+"gamedll_x64_rwdi.dll"+F9C612: C3                       -  ret
+"gamedll_x64_rwdi.dll"+F9C613: CC                       -  int 3
+"gamedll_x64_rwdi.dll"+F9C614: CC                       -  int 3
+"gamedll_x64_rwdi.dll"+F9C615: CC                       -  int 3
+"gamedll_x64_rwdi.dll"+F9C616: CC                       -  int 3
+}
+</AssemblerScript>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2603</ID>
+          <Description>"无限氮气"</Description>
+          <LastState/>
+          <Color>FF0080</Color>
+          <VariableType>Auto Assembler Script</VariableType>
+          <AssemblerScript>{ Game   : DyingLightGame.exe
+  Version: 1.12.2
+  Date   : 2016-06-13
+  Author : ray2160
+
+  This script does blah blah blah
+}
+
+[ENABLE]
+
+aobscanmodule(InfiniteNitro,gamedll_x64_rwdi.dll,F3 0F 11 4B 10 C7)
+registersymbol(InfiniteNitro)
+
+InfiniteNitro:
+  db 90 90 90 90 90
+
+[DISABLE]
+
+InfiniteNitro:
+  db F3 0F 11 4B 10
+unregistersymbol(InfiniteNitro)
+
+</AssemblerScript>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2543</ID>
+          <Description>"汽车喷火瞬间冷却"</Description>
+          <LastState/>
+          <Color>0000FF</Color>
+          <VariableType>Auto Assembler Script</VariableType>
+          <AssemblerScript>{ Game   : DyingLightGame.exe
+  Version: 1.12.2
+  Date   : 2016-06-13
+  Author : ray2160
+
+  This script does blah blah blah
+}
+
+[ENABLE]
+
+aobscanmodule(CarFlamethrower,gamedll_x64_rwdi.dll,F3 0F 11 43 1C 76)
+registersymbol(CarFlamethrower)
+
+CarFlamethrower:
+  db 90 90 90 90 90
+
+[DISABLE]
+
+CarFlamethrower:
+  db F3 0F 11 43 1C
+unregistersymbol(CarFlamethrower)
+
+</AssemblerScript>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2420</ID>
+      <Description>"无限伪装（激活脚本伪装自己） Off/On = P"</Description>
+      <LastState/>
+      <Color>00CCCC</Color>
+      <VariableType>Auto Assembler Script</VariableType>
+      <AssemblerScript>{ Game   : DyingLightGame.exe
+  Version: 1.12.2
+  Date   : 2016-06-13
+  Author : ray2160
+
+  This script does blah blah blah
+}
+
+[ENABLE]
+
+aobscanmodule(UnlimitedCamouflage,gamedll_x64_rwdi.dll,F3 0F 11 43 14 0F 28)
+registersymbol(UnlimitedCamouflage)
+
+UnlimitedCamouflage:
+  db 90 90 90 90 90
+
+[DISABLE]
+
+UnlimitedCamouflage:
+  db F3 0F 11 43 14
+unregistersymbol(UnlimitedCamouflage)
+</AssemblerScript>
+      <Hotkeys>
+        <Hotkey>
+          <Action>Toggle Activation</Action>
+          <Keys>
+            <Key>80</Key>
+          </Keys>
+          <ID>2</ID>
+        </Hotkey>
+      </Hotkeys>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2384</ID>
+      <Description>"挑战/时间冻结选项"</Description>
+      <Options moHideChildren="1" moDeactivateChildrenAsWell="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <Color>38DF00</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>2607</ID>
+          <Description>"挑战（信徒时间冻结）"</Description>
+          <LastState/>
+          <Color>FF0000</Color>
+          <VariableType>Auto Assembler Script</VariableType>
+          <AssemblerScript>{ Game   : DyingLightGame.exe
+  Version: 1.12.2
+  Date   : 2016-06-13
+  Author : ray2160
+
+  This script does blah blah blah
+}
+
+[ENABLE]
+
+aobscanmodule(ChallengeTimeFreeze,gamedll_x64_rwdi.dll,F3 0F 11 83 F0 00 00 00 48 85)
+registersymbol(ChallengeTimeFreeze)
+
+ChallengeTimeFreeze:
+  db 90 90 90 90 90 90 90 90
+
+[DISABLE]
+
+ChallengeTimeFreeze:
+  db F3 0F 11 83 F0 00 00 00
+unregistersymbol(ChallengeTimeFreeze)
+
+</AssemblerScript>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2294</ID>
+          <Description>"波扎克/获得信任时间时间冻结"</Description>
+          <LastState/>
+          <Color>008000</Color>
+          <VariableType>Auto Assembler Script</VariableType>
+          <AssemblerScript>{ Game   : DyingLightGame.exe
+  Version: 1.12.2
+  Date   : 2016-06-13
+  Author : ray2160
+
+  This script does blah blah blah
+}
+
+[ENABLE]
+
+aobscanmodule(BozakHorde,gamedll_x64_rwdi.dll,F3 0F 11 40 D8 80)
+registersymbol(BozakHorde)
+
+BozakHorde:
+  db 90 90 90 90 90
+
+[DISABLE]
+
+BozakHorde:
+  db F3 0F 11 40 D8
+unregistersymbol(BozakHorde)
+</AssemblerScript>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>2659</ID>
+          <Description>"Challenge CheckPoint Instantly Collect (may have reverse effect on some challenges)"</Description>
+          <LastState/>
+          <Color>000000</Color>
+          <VariableType>Auto Assembler Script</VariableType>
+          <AssemblerScript>{ Game   : DyingLightGame.exe
+  Version: 1.12.2
+  Date   : 2016-06-13
+  Author : ray2160
+
+  This script does blah blah blah
+}
+
+[ENABLE]
+
+aobscanmodule(CheckPoint,gamedll_x64_rwdi.dll,39 43 14 72 1F)
+alloc(newmem,$100,"gamedll_x64_rwdi.dll"+BCB7DE)
+
+label(code)
+label(return)
+
+newmem:
+
+code:
+  jb gamedll_x64_rwdi.ShutdownGameScriptDLL+BC8CF2
+  jmp return
+
+CheckPoint:
+  jmp code
+return:
+registersymbol(CheckPoint)
+
+[DISABLE]
+
+CheckPoint:
+  db 39 43 14 72 1F
+
+unregistersymbol(CheckPoint)
+dealloc(newmem)
+</AssemblerScript>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>11034</ID>
+          <Description>"Zombies Killed/Challenge CheckPoint"</Description>
+          <LastState/>
+          <VariableType>Auto Assembler Script</VariableType>
+          <AssemblerScript>{ Game   : DyingLightGame.exe
+  Version: 1.12.2
+  Date   : 2017-06-15
+  Author : ray2160
+
+  This script does blah blah blah
+}
+
+[ENABLE]
+
+aobscanmodule(ZombiesKilled,gamedll_x64_rwdi.dll,FF 41 14 84 D2) // should be unique
+alloc(newmem,$100,"gamedll_x64_rwdi.dll"+BDC0EE)
+
+label(code)
+label(return)
+
+newmem:
+  mov [rcx+14],40
+code:
+  //inc [rcx+14]
+  test dl,dl
+  jmp return
+
+ZombiesKilled:
+  jmp newmem
+return:
+registersymbol(ZombiesKilled)
+
+[DISABLE]
+
+ZombiesKilled:
+  db FF 41 14 84 D2
+
+unregistersymbol(ZombiesKilled)
+dealloc(newmem)
+
+{
+// ORIGINAL CODE - INJECTION POINT: "gamedll_x64_rwdi.dll"+BDC0EE
+
+"gamedll_x64_rwdi.dll"+BDC0C6: 48 8B 41 08              -  mov rax,[rcx+08]
+"gamedll_x64_rwdi.dll"+BDC0CA: 48 8B D9                 -  mov rbx,rcx
+"gamedll_x64_rwdi.dll"+BDC0CD: 48 85 C0                 -  test rax,rax
+"gamedll_x64_rwdi.dll"+BDC0D0: 0F 84 A8 00 00 00        -  je gamedll_x64_rwdi.dll+BDC17E
+"gamedll_x64_rwdi.dll"+BDC0D6: 83 B8 08 01 00 00 00     -  cmp dword ptr [rax+00000108],00
+"gamedll_x64_rwdi.dll"+BDC0DD: 0F 85 9B 00 00 00        -  jne gamedll_x64_rwdi.dll+BDC17E
+"gamedll_x64_rwdi.dll"+BDC0E3: 45 85 C0                 -  test r8d,r8d
+"gamedll_x64_rwdi.dll"+BDC0E6: 74 06                    -  je gamedll_x64_rwdi.dll+BDC0EE
+"gamedll_x64_rwdi.dll"+BDC0E8: 44 89 41 14              -  mov [rcx+14],r8d
+"gamedll_x64_rwdi.dll"+BDC0EC: EB 03                    -  jmp gamedll_x64_rwdi.dll+BDC0F1
+// ---------- INJECTING HERE ----------
+"gamedll_x64_rwdi.dll"+BDC0EE: FF 41 14                 -  inc [rcx+14]
+"gamedll_x64_rwdi.dll"+BDC0F1: 84 D2                    -  test dl,dl
+// ---------- DONE INJECTING  ----------
+"gamedll_x64_rwdi.dll"+BDC0F3: 74 52                    -  je gamedll_x64_rwdi.dll+BDC147
+"gamedll_x64_rwdi.dll"+BDC0F5: 83 79 54 01              -  cmp dword ptr [rcx+54],01
+"gamedll_x64_rwdi.dll"+BDC0F9: 75 4C                    -  jne gamedll_x64_rwdi.dll+BDC147
+"gamedll_x64_rwdi.dll"+BDC0FB: 48 8B 0D 76 CE 05 01     -  mov rcx,[gamedll_x64_rwdi.dll+1C38F78]
+"gamedll_x64_rwdi.dll"+BDC102: E8 D9 1D 7D FF           -  call gamedll_x64_rwdi.dll+3ADEE0
+"gamedll_x64_rwdi.dll"+BDC107: 48 85 C0                 -  test rax,rax
+"gamedll_x64_rwdi.dll"+BDC10A: 74 3B                    -  je gamedll_x64_rwdi.dll+BDC147
+"gamedll_x64_rwdi.dll"+BDC10C: 0F 57 C0                 -  xorps xmm0,xmm0
+"gamedll_x64_rwdi.dll"+BDC10F: F3 0F 10 1D 15 72 80 00  -  movss xmm3,[gamedll_x64_rwdi.dll+13E332C]
+"gamedll_x64_rwdi.dll"+BDC117: 48 8D 48 28              -  lea rcx,[rax+28]
+}
+</AssemblerScript>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>11035</ID>
+      <Description>"猎手设置"</Description>
+      <Options moHideChildren="1"/>
+      <LastState Value="" RealAddress="00000000"/>
+      <Color>FF8000</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>2319</ID>
+          <Description>"猎手射击吐痰瞬间冷却"</Description>
+          <LastState/>
+          <Color>FF0000</Color>
+          <VariableType>Auto Assembler Script</VariableType>
+          <AssemblerScript>{ Game   : DyingLightGame.exe
+  Version: 1.12.2
+  Date   : 2016-06-13
+  Author : ray2160
+
+  This script does blah blah blah
+}
+
+[ENABLE]
+
+aobscanmodule(HunterShootASpit,gamedll_x64_rwdi.dll,44 01 6C C7 60)
+registersymbol(HunterShootASpit)
+
+HunterShootASpit:
+  db 90 90 90 90 90
+
+[DISABLE]
+
+HunterShootASpit:
+  db 44 01 6C C7 60
+
+unregistersymbol(HunterShootASpit)
+</AssemblerScript>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>11003</ID>
+          <Description>"猎手紫外线手电抵抗"</Description>
+          <LastState/>
+          <Color>FF0000</Color>
+          <VariableType>Auto Assembler Script</VariableType>
+          <AssemblerScript>{ Game   : DyingLightGame.exe
+  Version: 1.12.2
+  Date   : 2017-06-14
+  Author : ray2160
+
+  This script does blah blah blah
+}
+
+[ENABLE]
+
+aobscanmodule(HunterUVlight,gamedll_x64_rwdi.dll,F3 0F 11 43 10 76 0C) // should be unique
+alloc(newmem,$100,"gamedll_x64_rwdi.dll"+BFD523)
+
+label(code)
+label(return)
+
+newmem:
+
+code:
+  movss [rbx+10],xmm0
+  mov [rbx+10],(float)1.5
+  jmp return
+
+HunterUVlight:
+  jmp newmem
+return:
+registersymbol(HunterUVlight)
+
+[DISABLE]
+
+HunterUVlight:
+  db F3 0F 11 43 10
+
+unregistersymbol(HunterUVlight)
+dealloc(newmem)
+
+{
+// ORIGINAL CODE - INJECTION POINT: "gamedll_x64_rwdi.dll"+BFD523
+
+"gamedll_x64_rwdi.dll"+BFD502: 48 89 74 24 50        -  mov [rsp+50],rsi
+"gamedll_x64_rwdi.dll"+BFD507: 0F 29 74 24 30        -  movaps [rsp+30],xmm6
+"gamedll_x64_rwdi.dll"+BFD50C: 0F 57 F6              -  xorps xmm6,xmm6
+"gamedll_x64_rwdi.dll"+BFD50F: 0F 2F C6              -  comiss xmm0,xmm6
+"gamedll_x64_rwdi.dll"+BFD512: 76 05                 -  jna gamedll_x64_rwdi.dll+BFD519
+"gamedll_x64_rwdi.dll"+BFD514: 40 B7 01              -  mov dil,01
+"gamedll_x64_rwdi.dll"+BFD517: EB 03                 -  jmp gamedll_x64_rwdi.dll+BFD51C
+"gamedll_x64_rwdi.dll"+BFD519: 40 32 FF              -  xor dil,dil
+"gamedll_x64_rwdi.dll"+BFD51C: 0F 2F FE              -  comiss xmm7,xmm6
+"gamedll_x64_rwdi.dll"+BFD51F: F3 0F 5C C7           -  subss xmm0,xmm7
+// ---------- INJECTING HERE ----------
+"gamedll_x64_rwdi.dll"+BFD523: F3 0F 11 43 10        -  movss [rbx+10],xmm0
+// ---------- DONE INJECTING  ----------
+"gamedll_x64_rwdi.dll"+BFD528: 76 0C                 -  jna gamedll_x64_rwdi.dll+BFD536
+"gamedll_x64_rwdi.dll"+BFD52A: 0F 2F C6              -  comiss xmm0,xmm6
+"gamedll_x64_rwdi.dll"+BFD52D: 77 07                 -  ja gamedll_x64_rwdi.dll+BFD536
+"gamedll_x64_rwdi.dll"+BFD52F: B8 01 00 00 00        -  mov eax,00000001
+"gamedll_x64_rwdi.dll"+BFD534: EB 02                 -  jmp gamedll_x64_rwdi.dll+BFD538
+"gamedll_x64_rwdi.dll"+BFD536: 33 C0                 -  xor eax,eax
+"gamedll_x64_rwdi.dll"+BFD538: 40 22 F8              -  and dil,al
+"gamedll_x64_rwdi.dll"+BFD53B: 48 8B 03              -  mov rax,[rbx]
+"gamedll_x64_rwdi.dll"+BFD53E: 48 8B CB              -  mov rcx,rbx
+"gamedll_x64_rwdi.dll"+BFD541: FF 50 20              -  call qword ptr [rax+20]
+}
+</AssemblerScript>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>11008</ID>
+          <Description>"猎手猛击"</Description>
+          <LastState/>
+          <Color>FF0000</Color>
+          <VariableType>Auto Assembler Script</VariableType>
+          <AssemblerScript>{ Game   : DyingLightGame.exe
+  Version: 1.12.2
+  Date   : 2017-06-14
+  Author : ray2160
+
+  This script does blah blah blah
+}
+
+[ENABLE]
+
+aobscanmodule(HunterSlam,gamedll_x64_rwdi.dll,83 44 C6 60 FE) // should be unique
+alloc(newmem,$100,"gamedll_x64_rwdi.dll"+D02D6F)
+
+label(code)
+label(return)
+
+newmem:
+
+code:
+  //add dword ptr [rsi+rax*8+60],-02
+  add dword ptr [rsi+rax*8+60],+00
+  jmp return
+
+HunterSlam:
+  jmp newmem
+return:
+registersymbol(HunterSlam)
+
+[DISABLE]
+
+HunterSlam:
+  db 83 44 C6 60 FE
+
+unregistersymbol(HunterSlam)
+dealloc(newmem)
+
+{
+// ORIGINAL CODE - INJECTION POINT: "gamedll_x64_rwdi.dll"+D02D6F
+
+"gamedll_x64_rwdi.dll"+D02D56: 75 1C                    -  jne gamedll_x64_rwdi.dll+D02D74
+"gamedll_x64_rwdi.dll"+D02D58: 8B 46 50                 -  mov eax,[rsi+50]
+"gamedll_x64_rwdi.dll"+D02D5B: 85 C0                    -  test eax,eax
+"gamedll_x64_rwdi.dll"+D02D5D: 74 0C                    -  je gamedll_x64_rwdi.dll+D02D6B
+"gamedll_x64_rwdi.dll"+D02D5F: 83 F8 02                 -  cmp eax,02
+"gamedll_x64_rwdi.dll"+D02D62: 74 07                    -  je gamedll_x64_rwdi.dll+D02D6B
+"gamedll_x64_rwdi.dll"+D02D64: B8 01 00 00 00           -  mov eax,00000001
+"gamedll_x64_rwdi.dll"+D02D69: EB 02                    -  jmp gamedll_x64_rwdi.dll+D02D6D
+"gamedll_x64_rwdi.dll"+D02D6B: 33 C0                    -  xor eax,eax
+"gamedll_x64_rwdi.dll"+D02D6D: 48 98                    -  cdqe 
+// ---------- INJECTING HERE ----------
+"gamedll_x64_rwdi.dll"+D02D6F: 83 44 C6 60 FE           -  add dword ptr [rsi+rax*8+60],-02
+// ---------- DONE INJECTING  ----------
+"gamedll_x64_rwdi.dll"+D02D74: 83 7E 50 FF              -  cmp dword ptr [rsi+50],-01
+"gamedll_x64_rwdi.dll"+D02D78: 0F 84 14 01 00 00        -  je gamedll_x64_rwdi.dll+D02E92
+"gamedll_x64_rwdi.dll"+D02D7E: 48 8B 06                 -  mov rax,[rsi]
+"gamedll_x64_rwdi.dll"+D02D81: 48 8B CE                 -  mov rcx,rsi
+"gamedll_x64_rwdi.dll"+D02D84: FF 50 20                 -  call qword ptr [rax+20]
+"gamedll_x64_rwdi.dll"+D02D87: 48 8B 88 F0 12 00 00     -  mov rcx,[rax+000012F0]
+"gamedll_x64_rwdi.dll"+D02D8E: 48 8B 01                 -  mov rax,[rcx]
+"gamedll_x64_rwdi.dll"+D02D91: FF 50 20                 -  call qword ptr [rax+20]
+"gamedll_x64_rwdi.dll"+D02D94: 48 8B C8                 -  mov rcx,rax
+"gamedll_x64_rwdi.dll"+D02D97: 48 8B 10                 -  mov rdx,[rax]
+}
+</AssemblerScript>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>11011</ID>
+          <Description>"猎人治疗自己"</Description>
+          <LastState/>
+          <Color>FF0000</Color>
+          <VariableType>Auto Assembler Script</VariableType>
+          <AssemblerScript>{ Game   : DyingLightGame.exe
+  Version: 1.12.2
+  Date   : 2017-06-14
+  Author : ray2160
+
+  This script does blah blah blah
+}
+
+[ENABLE]
+
+aobscanmodule(HunterHealYourself,gamedll_x64_rwdi.dll,FF 4B 70 48 8B 05 95 A6 F3 00) // should be unique
+alloc(newmem,$100,"gamedll_x64_rwdi.dll"+CFE8D9)
+
+label(code)
+label(return)
+
+newmem:
+
+code:
+  //dec [rbx+70]
+  mov rax,[gamedll_x64_rwdi.dll+1C38F78]
+  jmp return
+
+HunterHealYourself:
+  jmp newmem
+  nop
+  nop
+  nop
+  nop
+  nop
+return:
+registersymbol(HunterHealYourself)
+
+[DISABLE]
+
+HunterHealYourself:
+  db FF 4B 70 48 8B 05 95 A6 F3 00
+
+unregistersymbol(HunterHealYourself)
+dealloc(newmem)
+
+{
+// ORIGINAL CODE - INJECTION POINT: "gamedll_x64_rwdi.dll"+CFE8D9
+
+"gamedll_x64_rwdi.dll"+CFE8B5: E8 D6 1F 00 00        -  call gamedll_x64_rwdi.dll+D00890
+"gamedll_x64_rwdi.dll"+CFE8BA: F3 0F 11 43 44        -  movss [rbx+44],xmm0
+"gamedll_x64_rwdi.dll"+CFE8BF: 48 8B 03              -  mov rax,[rbx]
+"gamedll_x64_rwdi.dll"+CFE8C2: 48 8B CB              -  mov rcx,rbx
+"gamedll_x64_rwdi.dll"+CFE8C5: FF 50 20              -  call qword ptr [rax+20]
+"gamedll_x64_rwdi.dll"+CFE8C8: 48 8D 88 D8 08 00 00  -  lea rcx,[rax+000008D8]
+"gamedll_x64_rwdi.dll"+CFE8CF: 48 8B 01              -  mov rax,[rcx]
+"gamedll_x64_rwdi.dll"+CFE8D2: FF 50 48              -  call qword ptr [rax+48]
+"gamedll_x64_rwdi.dll"+CFE8D5: 84 C0                 -  test al,al
+"gamedll_x64_rwdi.dll"+CFE8D7: 75 03                 -  jne gamedll_x64_rwdi.dll+CFE8DC
+// ---------- INJECTING HERE ----------
+"gamedll_x64_rwdi.dll"+CFE8D9: FF 4B 70              -  dec [rbx+70]
+"gamedll_x64_rwdi.dll"+CFE8DC: 48 8B 05 95 A6 F3 00  -  mov rax,[gamedll_x64_rwdi.dll+1C38F78]
+// ---------- DONE INJECTING  ----------
+"gamedll_x64_rwdi.dll"+CFE8E3: 48 8B 88 40 0B 00 00  -  mov rcx,[rax+00000B40]
+"gamedll_x64_rwdi.dll"+CFE8EA: 48 85 C9              -  test rcx,rcx
+"gamedll_x64_rwdi.dll"+CFE8ED: 0F 84 D3 05 00 00     -  je gamedll_x64_rwdi.dll+CFEEC6
+"gamedll_x64_rwdi.dll"+CFE8F3: E8 78 14 1D 00        -  call gamedll_x64_rwdi.dll+ECFD70
+"gamedll_x64_rwdi.dll"+CFE8F8: E9 C9 05 00 00        -  jmp gamedll_x64_rwdi.dll+CFEEC6
+"gamedll_x64_rwdi.dll"+CFE8FD: 83 7B 38 00           -  cmp dword ptr [rbx+38],00
+"gamedll_x64_rwdi.dll"+CFE901: 0F 85 BF 05 00 00     -  jne gamedll_x64_rwdi.dll+CFEEC6
+"gamedll_x64_rwdi.dll"+CFE907: 33 FF                 -  xor edi,edi
+"gamedll_x64_rwdi.dll"+CFE909: 33 D2                 -  xor edx,edx
+"gamedll_x64_rwdi.dll"+CFE90B: 48 8B CB              -  mov rcx,rbx
+}
+</AssemblerScript>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+  </CheatEntries>
+  <CheatCodes>
+    <CodeEntry>
+      <Description>Change of movss [rbx+00000954],xmm0</Description>
+      <AddressString>gamedll_x64_rwdi.dll+AB83F7</AddressString>
+      <Before>
+        <Byte>0F</Byte>
+        <Byte>28</Byte>
+        <Byte>44</Byte>
+        <Byte>24</Byte>
+        <Byte>20</Byte>
+      </Before>
+      <Actual>
+        <Byte>F3</Byte>
+        <Byte>0F</Byte>
+        <Byte>11</Byte>
+        <Byte>83</Byte>
+        <Byte>54</Byte>
+        <Byte>09</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+      </Actual>
+      <After>
+        <Byte>40</Byte>
+        <Byte>84</Byte>
+        <Byte>F6</Byte>
+        <Byte>74</Byte>
+        <Byte>15</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry>
+      <Description>Change of mov [rsp+10],rbx</Description>
+      <AddressString>gamedll_x64_rwdi.dll+ABD8A0</AddressString>
+      <Before>
+        <Byte>CC</Byte>
+        <Byte>CC</Byte>
+        <Byte>CC</Byte>
+        <Byte>CC</Byte>
+        <Byte>CC</Byte>
+      </Before>
+      <Actual>
+        <Byte>48</Byte>
+        <Byte>89</Byte>
+        <Byte>5C</Byte>
+        <Byte>24</Byte>
+        <Byte>10</Byte>
+      </Actual>
+      <After>
+        <Byte>56</Byte>
+        <Byte>48</Byte>
+        <Byte>83</Byte>
+        <Byte>EC</Byte>
+        <Byte>50</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry>
+      <Description>Change of movss [rbx+00000954],xmm0</Description>
+      <AddressString>gamedll_x64_rwdi.dll+AB83F7</AddressString>
+      <Before>
+        <Byte>0F</Byte>
+        <Byte>28</Byte>
+        <Byte>44</Byte>
+        <Byte>24</Byte>
+        <Byte>20</Byte>
+      </Before>
+      <Actual>
+        <Byte>F3</Byte>
+        <Byte>0F</Byte>
+        <Byte>11</Byte>
+        <Byte>83</Byte>
+        <Byte>54</Byte>
+        <Byte>09</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+      </Actual>
+      <After>
+        <Byte>40</Byte>
+        <Byte>84</Byte>
+        <Byte>F6</Byte>
+        <Byte>74</Byte>
+        <Byte>15</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry>
+      <Description>Change of mov [rsp+10],rbx</Description>
+      <AddressString>gamedll_x64_rwdi.dll+ABD8A0</AddressString>
+      <Before>
+        <Byte>CC</Byte>
+        <Byte>CC</Byte>
+        <Byte>CC</Byte>
+        <Byte>CC</Byte>
+        <Byte>CC</Byte>
+      </Before>
+      <Actual>
+        <Byte>48</Byte>
+        <Byte>89</Byte>
+        <Byte>5C</Byte>
+        <Byte>24</Byte>
+        <Byte>10</Byte>
+      </Actual>
+      <After>
+        <Byte>56</Byte>
+        <Byte>48</Byte>
+        <Byte>83</Byte>
+        <Byte>EC</Byte>
+        <Byte>50</Byte>
+      </After>
+    </CodeEntry>
+  </CheatCodes>
+  <UserdefinedSymbols>
+    <SymbolEntry>
+      <Name>EasyLockAOB</Name>
+      <Address>7FEDE2655D0</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>teleport_aob1</Name>
+      <Address>7FEDF07DF22</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>waypoint_aob1</Name>
+      <Address>7FEDC42A8EC</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>current_X</Name>
+      <Address>7FEDECF0179</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>current_Z</Name>
+      <Address>7FEDECF017D</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>current_Y</Name>
+      <Address>7FEDECF0181</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>waypoint_Z</Name>
+      <Address>7FEDECF019D</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>VacData</Name>
+      <Address>7FEDDED0106</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>EnemyPosAOB</Name>
+      <Address>7FEDE2A37B9</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>PlayerPosAOB</Name>
+      <Address>7FEDE27DF22</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>TimePoint</Name>
+      <Address>7FEDCB2002A</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>TODAOB</Name>
+      <Address>7FEDD22FFD7</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>InfGrapAOB</Name>
+      <Address>7FEDCA0E659</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>CurItemAOB</Name>
+      <Address>7FEE075B71A</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>HunterXP</Name>
+      <Address>7FF9169F6674</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>SurvivorRank3</Name>
+      <Address>7FFC03261388</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>HP1a</Name>
+      <Address>7FFEACE183DF</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>HP2b</Name>
+      <Address>7FFEACE183E9</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>InfiniteHealth1</Name>
+      <Address>7FFBD16182C4</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>InfiniteHealth2</Name>
+      <Address>7FFBD16182CE</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>TheButton</Name>
+      <Address>7FFBD162BAFE</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>GasFreeFlamethrower</Name>
+      <Address>7FFBD1AF5EC2</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>Gas1</Name>
+      <Address>7FFBD1AF5861</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>NoDetection</Name>
+      <Address>7FFBD0C63212</Address>
+    </SymbolEntry>
+    <SymbolEntry>
+      <Name>wisz_aob1</Name>
+      <Address>7FFBD164B47C</Address>
+    </SymbolEntry>
+  </UserdefinedSymbols>
+  <Comments>Dying Light the following Enhanced Edition cheat table Steam v1.16.0
+Thanks/Credits to: 
+all credit goes to akumakuja28 for Time of Day (thank you) 
+all credit goes to mgr.inz.Player for Weapon Cloning (thank you) 
+all credit goes to Matze500 for Weapons In Save Zone (thank you) 
+------------------------- 
+3/24/2016 
+added: Survivor Rank 
+------------------------- 
+------------------------- 
+4/24/2016 
+added: Unlimited Gas 
+------------------------- 
+--------------- 
+4/26/2016 
+added: Cash 
+--------------- 
+------------------------------------ 
+4/26/2016 
+added: Instant Cooldown Flares 
+------------------------------------ 
+--------------------------------------------------------------------------------- 
+4/26/2016 
+added: Weapon Cloning: all credit goes to mgr.inz.Player (thank you) 
+--------------------------------------------------------------------------------- 
+Windows 10 Steam v1.11.2 
+File Features Include: 
+Infinite Health 
+Instant LVL Agility/Power/Legend/Driver/Level Of Trust 
+Instant Kill 
+Infinite Stamina 
+Super Jump 
+Infinite Crafting Items 
+Unlimited Potion Duration 
+Free Blueprint Requirements 
+Indestructible Weapons 
+Weapons In Save Zone 
+Infinite Ammo 
+Infinite Throwables / Weapon Upgrades 
+Infinite UV Flashlight 
+Easy Lock Picking 
+Unlimited Camouflage 
+Grappling Hook Instant Cooldown 
+Car Flamethrower Instant Cooldown 
+Infinite Nitro 
+The Button Instant Cooldown 
+Instant "Hold" Actions 
+Walk Speed 
+Challenge Time Freeze / Bozak Horde / The Following / Gaining Cradence 
+Challenge CheckPoint Instantly Collect 
+Set FOV 
+Teleport Preset / Player Location 
+Hunter Shoot A Spit Instant Cooldown 
+Instant Cooldown Flares 
+Survivor Rank 
+Time Of Day 
+Cash 
+Unlimited Gas 
+Weapon Cloning
+----------------------------------------------
+Simple "Weapon Cloning" (guns and melee). 
+ 1. activate the below script 
+ 2. drop weapon 
+ 3. you should have weapon clone on the ground and original in backpack. 
+ 4. if you have upgraded and modified weapons, cloned weapon will also be upgraded&amp;modified 
+----------------------------------------------
+Teleport Coordinance
+----------------------------------------------
+Eye Of The Sun Entrance
+X -669.9390869
+Z 228.220459
+Y 832.5141602
+----------------------------------------------
+</Comments>
+  <LuaScript>ItemTable = {}
+WeaponTable = {}
+BaseItemTable = {}
+ModTable = {}
+ItemPack = 0
+WeapPack = 0
+BaseItemPoint = 0
+
+function Dec2Hex(nValue)
+  return string.format("%X", 0+nValue)
+end
+
+function Hex2Dec(sValue)
+  return tonumber(sValue, 16).."";
+end
+
+function BackPackUpdate()
+   WeapPack = readQword(readQword("ItemEditData")+0x60)+0x40
+   ItemPack = readQword(readQword("ItemEditData")+0x58)+0x40
+   BaseItemPoint = readQword("ItemEditData+8")-0x18
+   local BasePointCount = readInteger(BaseItemPoint+8)
+   PackEdit_LBWeapSwap.clear()
+   local WeapSwapList = PackEdit_LBWeapSwap.getItems()
+   local ItemSwapList = PackEdit_LBItemSwap.getItems()
+    for i=0,BasePointCount-1 do
+      local ItemAddr = readQword(readQword(BaseItemPoint)+i*8)
+      local ItemString = readString(readQword(ItemAddr+0x18))
+      if ItemString then
+        if string.find(ItemString,"Craftplan_") then
+          table.insert(ModTable,{Address = ItemAddr,Name = ItemString})
+        end
+        table.insert(BaseItemTable,{Address=ItemAddr,Name=ItemString})
+      end
+    end
+   PackEdit_CBWeapMod.clear()
+   local ModList = PackEdit_CBWeapMod.getItems()
+   ModList.add("None")
+   PackEdit_CBWeapMod.setItemIndex(0)
+   for k,v in pairs(ModTable) do
+     ModList.add(v.Name)
+   end
+  for k,v in pairs(BaseItemTable) do
+    WeapSwapList.add(v.Name)
+    ItemSwapList.add(v.Name)
+  end
+end
+
+function BWeapUpdateClick(sender)
+  if #BaseItemTable == 0 then
+    BackPackUpdate()
+  end
+  PackEdit_LBWeapList.clear()
+  WeaponTable={}
+  local WeapList = PackEdit_LBWeapList.getItems()
+  local WeapCount = readInteger(WeapPack+8)
+  for i=0,WeapCount-1 do
+    local WeapAddr = readQword(readQword(WeapPack)+i*8)
+    local WeapString = readString(readQword(readQword(WeapAddr+0x60)+0x18))
+    local EquipFlag = bAnd(readBytes(WeapAddr+0xf8),4)
+    if EquipFlag == 4 then
+      WeapString = "E: "..WeapString
+    end
+    table.insert(WeaponTable,{Index = i,Name=WeapString,Address=WeapAddr,Equip=EquipFlag})
+  end
+  table.sort(WeaponTable,function(a,b) return a.Equip&gt;b.Equip end)
+  for k,v in pairs(WeaponTable) do
+    WeapList.add(v.Name)
+  end
+end
+
+
+function LBWeapListSelectionChange(sender, user)
+  if sender.ItemIndex == -1 then return end
+  local Weapon = WeaponTable[sender.ItemIndex+1]
+  local Dura = readFloat(Weapon.Address+0x44)
+  local Repair = readInteger(Weapon.Address+0x48)
+  local Quant = readInteger(Weapon.Address+0x40)
+  local Qual = readBytes(Weapon.Address+0x68)
+  local Mod = readQword(Weapon.Address+0x70)
+  PackEdit_EWeapDur.text = Dura
+  PackEdit_EWeapRepair.text = Repair
+  PackEdit_EWeapQual.text = Qual
+  PackEdit_EWeapQuant.text = Quant
+  local ModTest = false
+  for k,v in pairs(ModTable) do
+      if v.Address == Mod then
+        PackEdit_CBWeapMod.setItemIndex(k)
+        ModTest = true
+        break
+      end
+  end
+  if ModTest == false then PackEdit_CBWeapMod.setItemIndex(0) end
+end
+
+function EWeapApplyClick(sender)
+  if tonumber(PackEdit_EWeapDur.text) == nil or tonumber(PackEdit_EWeapRepair.text) == nil or tonumber(PackEdit_EWeapQual.text) == nil or tonumber(PackEdit_EWeapQuant.text) == nil then
+    showMessage("Please enter only number values.")
+  return end
+  if PackEdit_LBWeapList.ItemIndex == -1 then return end
+  local ModIndex = PackEdit_CBWeapMod.getItemIndex()
+  local Weapon = WeaponTable[PackEdit_LBWeapList.ItemIndex+1]
+  local Dura = tonumber(PackEdit_EWeapDur.text)
+  local Repair = tonumber(PackEdit_EWeapRepair.text)
+  local Quant = tonumber(PackEdit_EWeapQuant.text)
+  local Qual = tonumber(PackEdit_EWeapQual.text)
+  writeFloat(Weapon.Address+0x44,Dura)
+  writeInteger(Weapon.Address+0x48,Repair)
+  writeInteger(Weapon.Address+0x40,Quant)
+  writeBytes(Weapon.Address+0x68,Qual)
+  if ModIndex == 0 then
+    writeQword(Weapon.Address+0x70,0)
+  else
+    writeQword(Weapon.Address+0x70,ModTable[ModIndex].Address)
+  end
+end
+
+
+function BWeapSwapClick(sender)
+  if PackEdit_LBWeapSwap.ItemIndex == -1 or PackEdit_LBWeapList.ItemIndex == -1 then return end
+  local SwapIndex = PackEdit_LBWeapSwap.getItemIndex()+1
+  local Weapon = WeaponTable[PackEdit_LBWeapList.ItemIndex+1]
+  writeQword(Weapon.Address+0x60,BaseItemTable[SwapIndex].Address)
+  BWeapUpdateClick()
+end
+
+
+function BItemUpdateClick(sender)
+  if #BaseItemTable == 0 then
+    BackPackUpdate()
+  end
+  PackEdit_LBItemList.clear()
+  ItemTable = {}
+  local ItemList = PackEdit_LBItemList.getItems()
+  local ItemCount = readInteger(ItemPack+8)
+  for i = 0,ItemCount-1 do
+    local ItemAddr = readQword(readQword(ItemPack)+i*8)
+    local ItemString = readString(readQword(readQword(ItemAddr+0x60)+0x18))
+    local ItemType = readBytes(readQword(ItemAddr+0x60)+0x78)
+    table.insert(ItemTable,{Name = ItemString,Address = ItemAddr,ItemIndex = ItemType})
+  end
+  table.sort(ItemTable,function(a,b) return a.ItemIndex &lt; b.ItemIndex end)
+    for k,v in pairs(ItemTable) do
+    ItemList.add(v.Name)
+    end
+    end
+
+    function LBItemListSelectionChange(sender, user)
+    if sender.ItemIndex == -1 then return end
+    local Item = ItemTable[sender.ItemIndex+1]
+    local Quant = readInteger(Item.Address+0x40)
+    PackEdit_EItemQuant.text = Quant
+    local ItemTypeIndex = 0
+    for k,v in pairs(BaseItemTable) do
+    if v.Name == Item.Name then ItemTypeIndex = k-1 end
+    end
+    PackEdit_LBItemSwap.setItemIndex(ItemTypeIndex)
+    end
+
+    function BItemApplyClick(sender)
+    if PackEdit_LBItemSwap.ItemIndex == -1 or PackEdit_LBItemList.ItemIndex == -1 then return end
+    if tonumber(PackEdit_EItemQuant.text) == nil then showMessage("Please enter only number values.") end
+    local SwapIndex = PackEdit_LBItemSwap.getItemIndex()+1
+    local Item = ItemTable[PackEdit_LBItemList.ItemIndex+1]
+    local Quant = tonumber(PackEdit_EItemQuant.text)
+    writeQword(Item.Address+0x60,BaseItemTable[SwapIndex].Address)
+    writeInteger(Item.Address+0x40,Quant)
+    BItemUpdateClick()
+    end
+
+    function EditorShow()
+    ItemTable = {}
+    WeaponTable = {}
+    BaseItemTable = {}
+    PackEdit.show()
+    end
+
+    function EditorHide()
+    PackEdit.close()
+    end
+
+    function myattach(timer)
+    if getProcessIDFromProcessName("DyingLightGame.exe") ~= nil then
+    object_destroy(timer)
+    openProcess("DyingLightGame.exe")
+    end
+    end
+
+    t=createTimer(nil);
+    timer_setInterval(t,10)
+    timer_onTimer(t,myattach)
+
+    AddressList = getAddressList()
+
+    controlMainForm = getMainForm()
+--Rename Main Form
+control_setCaption(controlMainForm,"Dying Light the following Enhanced Edition Steam v1.16.0 Community Cheat Table")
+	
+	
+
+    
+
+
+
+
+  
+</LuaScript>
+</CheatTable>
